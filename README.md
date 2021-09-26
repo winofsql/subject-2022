@@ -1,4 +1,6 @@
 # subject
+
+## 環境 => https://github.com/winofsql/vscode-template
 ワークスペース テンプレート
 
 #### 1 : subject-main.zip としてダウンロード
