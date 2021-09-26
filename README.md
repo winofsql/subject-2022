@@ -15,8 +15,22 @@
 
 ### 7 : Run Terminal Command で 設定から 『ワークスペース作成用スクリプトのダウンロード』 を実行
 
-### 8 : vbs フォルダと同じところに、言語用フォルダを作成
+### 8 : vbs フォルダと同じところに、言語用フォルダ( ※1 )を作成
 
 ### 9 : lightbox.code-workspace.vbs を エクスプローラから実行
 
 ### 10 : 出来上がった lightbox.code-workspace を vscode で開く
+
+**※1 ▼ 以下の文字列を含むフォルダ**
+```
+java
+cs
+js
+hta
+php
+powershell
+python
+sql
+vbs
+wsh
+```
