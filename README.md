@@ -9,9 +9,9 @@
 
 #### 3 : -main を -9999 フォーマットで当日日付に変更
 
-#### 4 : vscode で フォルダとして中の vbs フォルダを開く
+#### 4 : vbs フォルダの中の setup-vscode-user.vbs を実行
 
-#### 5 : vbs フォルダの中の setup-vscode-user.vbs を実行
+#### 5 : vscode で フォルダとして中の vbs フォルダを開く
 
 #### 6 : Run Terminal Command で 設定から 『設定ファイルのダウンロード』 を実行
 
