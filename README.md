@@ -21,8 +21,8 @@
 
 #### 10 : 出来上がった lightbox.code-workspace を vscode で開く
 
-  
-  
+  \
+  \
 **※1 ▼ 以下の文字列を含むフォルダ**
 ```
 java
