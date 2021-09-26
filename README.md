@@ -17,4 +17,6 @@
 
 ### 8 : vbs フォルダと同じところに、言語用フォルダを作成
 
-### 9 : 
+### 9 : lightbox.code-workspace.vbs を エクスプローラから実行
+
+### 10 : 出来上がった lightbox.code-workspace を vscode で開く
