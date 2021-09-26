@@ -5,7 +5,7 @@
 
 #### 1 : subject-main.zip としてダウンロード
 
-#### 2 : 7Zip で解凍
+#### 2 : [7Zip](https://sevenzip.osdn.jp/) で解凍
 
 #### 3 : -main を -9999 フォーマットで当日日付に変更
 
