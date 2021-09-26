@@ -22,6 +22,10 @@
 #### 10 : 出来上がった lightbox.code-workspace を vscode で開く
 ![image](https://user-images.githubusercontent.com/1501327/134792059-fea2d3a3-c180-4246-bc03-5f3a6814adaf.png)
 
+拡張を指定フォルダに保存している場合は、vscode.bat を作成して選択
+```
+"D:\app2\Microsoft VS Code\Code.exe" --extensions-dir="D:\app2\vscode\extensions" %1
+```
 
 \
 \
