@@ -10,6 +10,26 @@
                 "reveal": "never"
             },
             "problemMatcher": []
+        },
+        {
+            "label": "VSCode を開く",
+            "type": "shell",
+            "command": "${execPath}",
+            "group": "none",
+            "presentation": {
+                "reveal": "never"
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "Chrome を開く",
+            "type": "shell",
+            "command": "start chrome",
+            "group": "none",
+            "presentation": {
+                "reveal": "never"
+            },
+            "problemMatcher": []
         }
     ]
 }
