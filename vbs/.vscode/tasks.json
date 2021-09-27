@@ -5,7 +5,7 @@
             "label": "選択したファイルを既定のアプリで開く",
             "type": "shell",
             "command": "explorer ${file}",
-            "group": "sworc",
+            "group": "none",
             "presentation": {
                 "reveal": "never"
             },
