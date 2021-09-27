@@ -2,10 +2,10 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "選択したリンクを既定のアプリで開く",
+            "label": "選択したファイルを既定のアプリで開く",
             "type": "shell",
             "command": "explorer ${file}",
-            "group": "none",
+            "group": "sworc",
             "presentation": {
                 "reveal": "never"
             },
