@@ -19,9 +19,9 @@
 
 #### 8 : vbs フォルダと同じところに、言語用フォルダ( ※1 )を作成
 
-#### 9 : folder-vscode-settings-setup.vbs を実行して lightbox.code-workspace.vbs を作成
+#### 9 : folder-vscode-settings-setup.vbs を実行して lightbox.code-workspace を作成
 
-#### 10 : lightbox.code-workspace.vbs を エクスプローラから実行
+#### 10 : lightbox.code-workspace を エクスプローラから実行
 
 #### 11 : 出来上がった lightbox.code-workspace を vscode で開く
 ![image](https://user-images.githubusercontent.com/1501327/134792059-fea2d3a3-c180-4246-bc03-5f3a6814adaf.png)
