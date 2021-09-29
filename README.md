@@ -38,8 +38,8 @@ cs
 js
 hta
 php
-powershell
-python
+ps
+py
 sql
 vbs
 wsh
