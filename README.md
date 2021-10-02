@@ -1,4 +1,4 @@
-# subject
+# Subject ワークスペース用テンプレート
 
 ## 環境 => https://github.com/winofsql/vscode-template
 ワークスペース テンプレート
