@@ -35,7 +35,7 @@
 \
 \
 \
-▼ マークダウン自動表示切替\
+▼ マークダウン自動表示切替
 ```
 hnw.vscode-auto-open-markdown-preview
 ```
