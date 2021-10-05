@@ -28,7 +28,7 @@
     "runTerminalCommand.commands": [
         {
             "command": "cscript setup-vscode-user.vbs",
-            "name": "基本設定",
+            "name": "基本設定　",
             "auto": true,
             "group": "設定"
         },
