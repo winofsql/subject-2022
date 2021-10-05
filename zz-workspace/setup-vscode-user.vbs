@@ -58,3 +58,11 @@ Stream.Type = 1
 Stream.Write objSrvHTTP.responseBody
 Stream.SaveToFile path & "\folder-vscode-settings-setup.vbs", 2
 Stream.Close
+
+Call objSrvHTTP.Open("GET", "https://github.com/winofsql/vscode-template/raw/main/script/build-tomcat-path.vbs" & "?dummy=" & Timer, False )
+objSrvHTTP.Send
+Stream.Open
+Stream.Type = 1
+Stream.Write objSrvHTTP.responseBody
+Stream.SaveToFile path & "\build-tomcat-path.vbs", 2
+Stream.Close
