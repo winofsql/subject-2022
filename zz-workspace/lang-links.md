@@ -1,3 +1,29 @@
 # 言語ドキュメント
 
 ## [Java 基礎](https://java-code.jp/)
+
+## C#
+1. [C#入門](https://www.tohoho-web.com/ex/c-sharp.html)
+2. [Microsoft C# リファレンス](https://docs.microsoft.com/ja-jp/dotnet/csharp/language-reference/)
+
+## [MySQL データ操作ステートメント](https://dev.mysql.com/doc/refman/5.6/ja/sql-syntax-data-manipulation.html)
+
+## MySQL 関数
+1. [文字列関数](https://dev.mysql.com/doc/refman/5.6/ja/string-functions.html)
+2. [日付および時間関数](https://dev.mysql.com/doc/refman/5.6/ja/date-and-time-functions.html)
+3. [数値関数と演算子](https://dev.mysql.com/doc/refman/5.6/ja/numeric-functions.html)
+
+## Emmet関連ドキュメント
+1. [Emmet Syntax](https://docs.emmet.io/abbreviations/syntax/)
+2. [Emmet チートシート](https://docs.emmet.io/cheat-sheet/)
+3. [主な記述方法](https://blog.proglus.jp/4428/#i-2)
+
+## PHP リファレンス
+1. [文字列関数](https://www.php.net/manual/ja/ref.strings.php)
+2. [PDO](https://www.php.net/manual/ja/book.pdo.php)
+3. [ヒアドキュメント等](https://www.php.net/manual/ja/language.types.string.php)
+
+## Markdown Format
+1. [基本的な書き方とフォーマットの構文](https://docs.github.com/ja/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+2. [情報を表に編成する](https://docs.github.com/ja/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+3. [コードブロックの作成と強調表示](https://docs.github.com/ja/github/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks)
