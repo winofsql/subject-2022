@@ -113,4 +113,7 @@ try {
 ```
 
 
-
+## 定義場所
+```
+extensions\redhat.java-n.nn.n\snippets
+```
