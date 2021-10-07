@@ -15,13 +15,14 @@
 
 #### 6 : Run Terminal Command で 設定から 『設定ファイルのダウンロード』 を実行
 
-#### 7 : zz-workspace-vbs フォルダと同じところに、言語用フォルダ( ※1 )を作成
+#### 7 : Run Terminal Command で 設定から 『ワークスペース作成』 を実行
 
-#### 8 : folder-vscode-settings-setup.vbs を実行して lightbox.code-workspace を作成
+#### 8 : lightbox.code-workspace を エクスプローラから実行
 
-#### 9 : lightbox.code-workspace を エクスプローラから実行
+#### 9 : zz-workspace-vbs フォルダと同じところに、言語用フォルダ( ※1 )を作成
 
-#### 10 : 出来上がった lightbox.code-workspace を vscode で開く
+#### 10 : Run Terminal Command で 設定から 『ワークスペース作成』 を実行
+
 ![image](https://user-images.githubusercontent.com/1501327/134792059-fea2d3a3-c180-4246-bc03-5f3a6814adaf.png)
 
 拡張を指定フォルダに保存している場合は、vscode.bat を作成して **『その他のアプリ』** から選択
