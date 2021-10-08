@@ -17,7 +17,7 @@
 
 #### 7 : Run Terminal Command で 設定から 『ワークスペース作成』 を実行
 
-#### 8 : フォルダを開いた VSCode を閉じる
+#### 8 : フォルダで開いた VSCode を閉じる
 
 #### 9 : lightbox.code-workspace を エクスプローラから実行
 
