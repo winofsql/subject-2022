@@ -25,6 +25,9 @@
     "terminal.integrated.fontSize": 16,
     "editor.renderWhitespace": "boundary",
     "terminal.integrated.defaultLocation": "editor",
+    "[vbs]": {
+        "files.encoding": "shiftjis"
+    },
     "runTerminalCommand.commands": [
         {
             "command": "cscript setup-vscode-user.vbs",
