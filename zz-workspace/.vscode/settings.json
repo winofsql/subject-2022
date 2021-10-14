@@ -24,6 +24,11 @@
     "terminal.integrated.defaultProfile.windows": "Command Prompt",
     "terminal.integrated.fontSize": 16,
     "editor.renderWhitespace": "boundary",
+    "csv-edit.fontSizeInPx": 14,
+    "csv-preview.formatValues": "never",
+    "[csv]": {
+        "files.encoding": "shiftjis"
+    },    
     "terminal.integrated.defaultLocation": "editor",
     "[vbs]": {
         "files.encoding": "shiftjis"
