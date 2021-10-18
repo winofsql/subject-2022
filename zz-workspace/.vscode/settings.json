@@ -35,7 +35,7 @@
     },
     "runTerminalCommand.commands": [
         {
-            "command": "cscript dopwnload\\setup-vscode-user.vbs",
+            "command": "cscript download\\setup-vscode-user.vbs",
             "name": "基本設定",
             "auto": true,
             "group": "設定"
