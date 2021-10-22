@@ -19,6 +19,14 @@ Stream.Write objSrvHTTP.responseBody
 Stream.SaveToFile path & "\download.vbs", 2
 Stream.Close
 
+Call objSrvHTTP.Open("GET", "https://github.com/winofsql/subject/raw/main/zz-workspace/download/setup-vscode-user.vbs" & "?dummy=" & Timer, False )
+objSrvHTTP.Send
+Stream.Open
+Stream.Type = 1
+Stream.Write objSrvHTTP.responseBody
+Stream.SaveToFile path & "\setup-vscode-user.vbs", 2
+Stream.Close
+
 Call objSrvHTTP.Open("GET", "https://github.com/winofsql/vscode-template/raw/main/script/sworc-settings-download.vbs" & "?dummy=" & Timer, False )
 objSrvHTTP.Send
 Stream.Open
