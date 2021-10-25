@@ -63,7 +63,7 @@ wsh
         "\\app\\workspace\\lib\\commons-compress-1.20.jar",
         "\\app\\workspace\\lib\\pdfbox-app-2.0.24.jar",
         "\\app\\workspace\\lib\\ucanaccess-5.0.1.jar",
-        "\\app\\workspace\\lib\\commons-lang3-3.8.1",
+        "\\app\\workspace\\lib\\commons-lang3-3.8.1.jar",
         "\\app\\workspace\\lib\\commons-logging-1.2.jar",
         "\\app\\workspace\\lib\\hsqldb-2.5.0.jar",
         "\\app\\workspace\\lib\\jackcess-3.0.1.jar",
