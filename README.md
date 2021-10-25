@@ -60,6 +60,7 @@ wsh
         "\\app\\workspace\\lib\\xmlbeans-4.0.0.jar",
         "\\app\\workspace\\lib\\poi-ooxml-full-5.0.0.jar",
         "\\app\\workspace\\lib\\poi-ooxml-5.0.0.jar",
-        "\\app\\workspace\\lib\\commons-compress-1.20.jar"
+        "\\app\\workspace\\lib\\commons-compress-1.20.jar",
+        "\\app\\workspace\\lib\\pdfbox-app-2.0.24.jar"
     ]    
 ```
