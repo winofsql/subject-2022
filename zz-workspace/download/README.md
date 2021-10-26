@@ -2,6 +2,7 @@
 
 ## フリーフォント
 - [けいふぉんと！](http://font.sumomo.ne.jp/font_1.html)
+- [ラノベPOP](http://www.fontna.com/blog/1706/)
 
 ## Java 
 - [MySQL Connector/J](https://dev.mysql.com/downloads/connector/j/)
