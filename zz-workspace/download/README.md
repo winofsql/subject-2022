@@ -9,4 +9,5 @@
 
 ## C#
 [PdfSharp](https://www.nuget.org/packages/PdfSharp/)\
-[Newtonsoft.Json](https://www.nuget.org/packages/Newtonsoft.Json/)
+[Newtonsoft.Json](https://www.nuget.org/packages/Newtonsoft.Json/)\
+[MailKit](https://www.nuget.org/packages/MailKit/)
