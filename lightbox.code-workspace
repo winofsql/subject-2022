@@ -247,13 +247,13 @@
                 "group": "🟥 Java"
             },
             {
-                "command": "dotnet new console",
+                "command": "dotnet new console && dotnet add package System.Data.Odbc && dotnet add package System.Text.Encoding.CodePages",
                 "name": "コンソールプロジェクト作成",
                 "auto": true,
                 "group": "🟦 C#"
             },
             {
-                "command": "dotnet new winforms",
+                "command": "dotnet new winforms && dotnet add package System.Data.Odbc && dotnet add package System.Text.Encoding.CodePages",
                 "name": "Form プロジェクト作成",
                 "auto": true,
                 "group": "🟦 C#"
@@ -479,9 +479,22 @@
                 "name": "💯 XAMPP Alias 設定",
                 "auto": true,
                 "group": "🖐 設定"
-            },            {
+            },
+            {
                 "command": "cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\build-tomcat-path.vbs && cd WEB-INF\\classes\\lightbox && cmd /c comp.bat",
                 "name": "🐱 TOMCAT PATH 作成",
+                "auto": true,
+                "group": "🖐 設定"
+            },
+            {
+                "command": "cd ..\\..\\ && git clone https://github.com/winofsql/subject.git && ren subject subject-%date:~5,2%%date:~8,2% && cd subject-%date:~5,2%%date:~8,2% && rmdir .git /S /Q",
+                "name": "SUBJECT ノーマル",
+                "auto": true,
+                "group": "🖐 設定"
+            }
+            {
+                "command": "cd ..\\..\\ && git clone https://github.com/winofsql/subject.git && ren subject subject-%date:~5,2%%date:~8,2%",
+                "name": "GIT SUBJECT",
                 "auto": true,
                 "group": "🖐 設定"
             }
