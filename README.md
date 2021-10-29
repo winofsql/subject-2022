@@ -13,17 +13,15 @@
 
 #### 5 : Run Terminal Command で 設定から 『基本設定』 を実行
 
-#### 6 : Run Terminal Command で 設定から 『設定ファイルのダウンロード』 を実行
+#### 6 : Run Terminal Command で 設定から 『ワークスペース作成』 を実行
 
-#### 7 : Run Terminal Command で 設定から 『ワークスペース作成』 を実行
+#### 7 : フォルダで開いた VSCode を閉じる
 
-#### 8 : フォルダで開いた VSCode を閉じる
+#### 8 : lightbox.code-workspace を エクスプローラから実行
 
-#### 9 : lightbox.code-workspace を エクスプローラから実行
+#### 9 : zz-workspace-vbs フォルダと同じところに、言語用フォルダ( ※1 )を作成
 
-#### 10 : zz-workspace-vbs フォルダと同じところに、言語用フォルダ( ※1 )を作成
-
-#### 11 : Run Terminal Command で 設定から 『ワークスペース作成』 を実行
+#### 10 : Run Terminal Command で 設定から 『ワークスペース作成』 を実行
 
 ![image](https://user-images.githubusercontent.com/1501327/134792059-fea2d3a3-c180-4246-bc03-5f3a6814adaf.png)
 
