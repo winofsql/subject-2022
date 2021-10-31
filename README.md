@@ -3,6 +3,7 @@
 ## 環境 => https://github.com/winofsql/vscode-template
 ワークスペース テンプレート
 
+## ZIP をダウンロードして設定
 #### 1 : subject-main.zip としてダウンロード
 
 #### 2 : [7Zip](https://sevenzip.osdn.jp/) で解凍
