@@ -4,6 +4,12 @@
             "path": "zz-workspace"
         },
     ],
+{
+    "folders": [
+        {
+            "path": "zz-workspace"
+        },
+    ],
     "settings": {
         "code-runner.runInTerminal": true,
         "code-runner.fileDirectoryAsCwd": true,
