@@ -69,5 +69,5 @@ wsh
 ]    
 ```
 
-## GIT
+## Git
 [ダウンロード](https://git-scm.com/)
