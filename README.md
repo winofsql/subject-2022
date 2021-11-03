@@ -47,6 +47,7 @@ vbs
 wsh
 ```
 
+## Java 用ライブラリをユーザ設定に定義
 ```javascript
 "java.project.referencedLibraries": [
     "lib/**/*.jar",
