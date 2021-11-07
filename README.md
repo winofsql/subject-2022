@@ -46,6 +46,7 @@ sql
 vbs
 wsh
 ```
+※ cs で フォームがある場合は、form という文字列を含める
 
 ## Java 用ライブラリをユーザ設定に定義
 ```javascript
