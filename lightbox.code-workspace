@@ -334,6 +334,12 @@
                 "group": "🟦 C#"
             },
             {
+                "command": "cd ..\\ && git clone https://github.com/winofsql/cs-con-sqlclient-select.git && cd cs-con-sqlclient-select && rmdir .git /S /Q && dotnet add package System.Data.SqlClient && cd ..\\ && git clone https://github.com/winofsql/cs-con-sqlclient-02.git && cd cs-con-sqlclient-02 && rmdir .git /S /Q && dotnet add package System.Data.SqlClient && cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\workspace-build-download.vbs",
+                "name": "📕【バッチ + SQLExpress】",
+                "auto": true,
+                "group": "🟦 C#"
+            },
+            {
                 "command": "cd ..\\ && git clone https://github.com/winofsql/cs-con-odbc-access-select.git && cd cs-con-odbc-access-select && rmdir .git /S /Q && dotnet add package System.Data.Odbc && dotnet add package System.Data.OleDb && cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\workspace-build-download.vbs",
                 "name": "📕【バッチ + MS Access as DB( ODBC )】Microsoft Access に DB( ODBC ) としてアクセス",
                 "auto": true,
@@ -634,14 +640,26 @@
                 "group": "📥 ダウンロード"
             },
             {
+                "command": "start chrome https://vscode.dev/ && exit",
+                "name": "🌞 VS Code for WEB",
+                "auto": true,
+                "group": "📌 ブックマーク"
+            },
+            {
+                "command": "start chrome --incognito https://remotedesktop.google.com/access/ && exit",
+                "name": "🌞 Google Chrome リモートアクセス",
+                "auto": true,
+                "group": "📌 ブックマーク"
+            },
+            {
                 "command": "start chrome https://github.com/winofsql/subject && exit",
-                "name": "Subject ワークスペース用テンプレート",
+                "name": "🌞 Subject ワークスペース用テンプレート",
                 "auto": true,
                 "group": "📌 ブックマーク"
             },
             {
                 "command": "start chrome https://github.com/winofsql/vscode-template && exit",
-                "name": "VS Code テンプレート",
+                "name": "🌞 VS Code テンプレート",
                 "auto": true,
                 "group": "📌 ブックマーク"
             },
@@ -672,6 +690,24 @@
             {
                 "command": "%windir%\\system32\\odbcad32.exe && exit",
                 "name": "🔶 ODBC64",
+                "auto": true,
+                "group": "🔳 Windows"
+            },
+            {
+                "command": "%windir%\\system32\\services.msc && exit",
+                "name": "🔶 サービス",
+                "auto": true,
+                "group": "🔳 Windows"
+            },
+            {
+                "command": "RunDLL32.EXE shell32.dll,Control_RunDLL appwiz.cpl && exit",
+                "name": "🔶 プログラムと機能",
+                "auto": true,
+                "group": "🔳 Windows"
+            },
+            {
+                "command": "SystemPropertiesAdvanced.exe && exit",
+                "name": "🔶 システムの詳細設定",
                 "auto": true,
                 "group": "🔳 Windows"
             },
