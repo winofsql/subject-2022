@@ -81,5 +81,6 @@ FROM
    - そうすると、残ったウインドウの一覧が左半分に表示されるので、選択する
    - 境界をマウスで長押しすると黒い移動用の境界コントロールが現れる
 
+
 ![image](https://user-images.githubusercontent.com/1501327/143733503-bef7a189-0b12-44bc-bbb3-0cf25ba69480.png)
 
