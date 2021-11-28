@@ -88,5 +88,6 @@ FROM
 # タスクマネージャ
 ### ショートカットキー : CTRL + SHIFT + ESC
 
+#### ▼ タスクマネージャの詳細で必要な列
 ![image](https://user-images.githubusercontent.com/1501327/143733802-d39c8668-99da-41af-b6e9-9ab342f3a179.png)
 
