@@ -80,4 +80,5 @@ FROM
    - 右に置きたいウインドウをドラッグしてデスクトップの右端へ持って行く
    - そうすると、残ったウインドウの一覧が左半分に表示されるので、選択する
 
+![image](https://user-images.githubusercontent.com/1501327/143733503-bef7a189-0b12-44bc-bbb3-0cf25ba69480.png)
 
