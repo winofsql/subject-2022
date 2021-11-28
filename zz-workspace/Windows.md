@@ -14,7 +14,7 @@
 
 ![image](https://user-images.githubusercontent.com/1501327/143733503-bef7a189-0b12-44bc-bbb3-0cf25ba69480.png)
 
-# タスクマネージャ
+## タスクマネージャ
 ### ショートカットキー : CTRL + SHIFT + ESC
 
 #### ▼ タスクマネージャの詳細で必要な列はプラットホーム
