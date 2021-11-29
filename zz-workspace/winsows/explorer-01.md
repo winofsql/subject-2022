@@ -39,3 +39,6 @@ RUNDLL32.EXE shell32.dll,Options_RunDLL 7
 
 ![image](https://user-images.githubusercontent.com/1501327/143817434-a334c7f5-1bdb-4967-87e5-f6d3bbdfcefd.png)
 
+## 共有の表示
+
+![image](https://user-images.githubusercontent.com/1501327/143818041-e1363ab7-b887-40be-b78f-d431b262dbdc.png)
