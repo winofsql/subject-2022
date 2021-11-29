@@ -12,7 +12,7 @@
 - そうすると、残ったウインドウの一覧が左半分に表示されるので、選択する
 - 境界をマウスで長押しすると黒い移動用の境界コントロールが現れる
 
-![image](https://user-images.githubusercontent.com/1501327/143796345-74152ae5-ed8c-42ef-9886-acb79ea31d49.png)
+![image](https://user-images.githubusercontent.com/1501327/143796639-6598bc85-546a-4b39-8655-7b96600a2187.png)
 
 
 
