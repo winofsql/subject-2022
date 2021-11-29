@@ -1,0 +1,31 @@
+# Windows
+## 画面部分キャプチャ : WIN + SHIFT + S
+( ウインドウのキャプチャは、ALT + PrintScreen )
+
+![image](https://user-images.githubusercontent.com/1501327/143732733-643d7e3c-cf3b-458a-b32c-286e9b2305a0.png)
+
+**タスクバーの右端をクリックするとデスクトップが表示されます**
+
+## ウインドウを左右に並べるには?
+- 右に置きたいウインドウをドラッグしてデスクトップの右端へ持って行く
+   - **Windows のマルチタスクの ウインドウのスナップを使用します**
+- そうすると、残ったウインドウの一覧が左半分に表示されるので、選択する
+- 境界をマウスで長押しすると黒い移動用の境界コントロールが現れる
+
+![image](https://user-images.githubusercontent.com/1501327/143796639-6598bc85-546a-4b39-8655-7b96600a2187.png)
+
+
+
+![image](https://user-images.githubusercontent.com/1501327/143733503-bef7a189-0b12-44bc-bbb3-0cf25ba69480.png)
+
+## タスクマネージャ
+### ショートカットキー : CTRL + SHIFT + ESC
+
+#### ▼ タスクマネージャの詳細で必要な列はプラットホーム
+![image](https://user-images.githubusercontent.com/1501327/143733802-d39c8668-99da-41af-b6e9-9ab342f3a179.png)\
+※ アプリが 32 か 64 かを確認できる
+
+### ファイルメニュー => 新しいタスクの実行
+
+![image](https://user-images.githubusercontent.com/1501327/143733976-162e2e79-1d81-40b4-aa52-9dde6ba06fba.png)\
+※ 管理者権限をアプリに付加して実行できる
