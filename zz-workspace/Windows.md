@@ -10,6 +10,9 @@
    - 右に置きたいウインドウをドラッグしてデスクトップの右端へ持って行く
    - そうすると、残ったウインドウの一覧が左半分に表示されるので、選択する
    - 境界をマウスで長押しすると黒い移動用の境界コントロールが現れる
+   - **Windows のマルチタスク機能を使用します**
+   - ![image](https://user-images.githubusercontent.com/1501327/143796345-74152ae5-ed8c-42ef-9886-acb79ea31d49.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/1501327/143733503-bef7a189-0b12-44bc-bbb3-0cf25ba69480.png)
