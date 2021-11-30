@@ -67,3 +67,12 @@ CompMgmtLauncher.exe
 - エクスプローラの PC を右クリック
 - 管理
 
+## ⭐ システムのプロパティの詳細設定タブ
+```
+SystemPropertiesAdvanced.exe
+```
+![image](https://user-images.githubusercontent.com/1501327/143976761-93e1eea5-bb48-4b70-933d-06c1d33f79ec.png)
+- WIN + PAUSE ( システムの詳細情報 )
+- システムの詳細設定( 右サイドリンク )
+
+![image](https://user-images.githubusercontent.com/1501327/143976976-3baa7a3a-4dfd-4053-bf76-6c61db166041.png)
