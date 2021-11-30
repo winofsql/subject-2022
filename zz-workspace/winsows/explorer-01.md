@@ -45,3 +45,15 @@ RUNDLL32.EXE shell32.dll,Options_RunDLL 7
 ## 共有の表示
 
 ![image](https://user-images.githubusercontent.com/1501327/143818167-68e88697-5227-417d-8b0a-0631d85f0c38.png)
+
+## アプリケーションからショートカット作成
+- エクスプローラの該当フォルダを開く
+- この場合フォルダ内をクリックしてフォーカスをセット
+- not とタイプ ( タイプした英数字に最初から一致する場所に位置づけ
+- notepad.exe を選択
+- マウスで**右ドラッグ**
+- ショートカット作成を選択
+
+https://user-images.githubusercontent.com/1501327/143969985-356e8809-d322-4800-a5c8-d177a9d38725.mp4
+
+
