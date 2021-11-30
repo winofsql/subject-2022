@@ -30,6 +30,6 @@
 ![image](https://user-images.githubusercontent.com/1501327/143733976-162e2e79-1d81-40b4-aa52-9dde6ba06fba.png)\
 ※ 管理者権限をアプリに付加して実行できる
 
-https://user-images.githubusercontent.com/1501327/143964339-12cb7ae8-9109-49cf-87be-aadf1e3a94a1.mp4
+
 
 
