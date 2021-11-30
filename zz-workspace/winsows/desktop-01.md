@@ -53,7 +53,7 @@ control.exe desk.cpl,,0
 
 ![image](https://user-images.githubusercontent.com/1501327/143975539-a59da7ca-edcd-4ab8-88c6-4d0b0e60bce9.png)
 
-## 管理ツール
+## ⭐ 管理ツール
 ```
 CompMgmtLauncher.exe
 ```
