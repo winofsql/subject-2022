@@ -20,6 +20,7 @@
 ## ⭐ タスクマネージャ
 ### ✅ ショートカットキー : CTRL + SHIFT + ESC
 
+### ✅ ファイルの場所を開く
 ![image](https://user-images.githubusercontent.com/1501327/143967155-dff4d7fa-f516-42a4-87ea-d8c466b38987.png)
 
 https://user-images.githubusercontent.com/1501327/143966585-01e48533-13c8-4a07-bb90-71b2b8f248b8.mp4
