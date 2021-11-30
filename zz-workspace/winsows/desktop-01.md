@@ -50,5 +50,6 @@ control.exe desk.cpl,,0
 - 個人用設定
 - テーマ
 - デスクトップアイコンの設定( 右サイドリンク )
+
 ![image](https://user-images.githubusercontent.com/1501327/143975539-a59da7ca-edcd-4ab8-88c6-4d0b0e60bce9.png)
 
