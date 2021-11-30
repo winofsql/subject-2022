@@ -37,4 +37,6 @@ https://user-images.githubusercontent.com/1501327/143966585-01e48533-13c8-4a07-b
 ## ⭐ メニューからショートカット作成( 普通にドラッグ )
 https://user-images.githubusercontent.com/1501327/143965272-22ca0420-8012-406a-b451-dd18f0d70723.mp4
 
+## ⭐ シャットダウンダイアログ : デイクトップフォーカスで ALT + F4
+![image](https://user-images.githubusercontent.com/1501327/143975037-70baa020-c92a-462e-a646-43367406151f.png)
 
