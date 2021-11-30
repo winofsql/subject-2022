@@ -76,3 +76,15 @@ SystemPropertiesAdvanced.exe
 - システムの詳細設定( 右サイドリンク )
 
 ![image](https://user-images.githubusercontent.com/1501327/143976976-3baa7a3a-4dfd-4053-bf76-6c61db166041.png)
+
+## ⭐ プログラムと機能
+```
+RunDLL32.EXE shell32.dll,Control_RunDLL appwiz.cpl
+```
+![image](https://user-images.githubusercontent.com/1501327/143977364-9394f9f0-4bd2-4cc1-903c-6be9e6fa09bf.png)
+- WIN + I
+- アプリ
+- プログラムと機能( 右サイドリンク )
+
+![image](https://user-images.githubusercontent.com/1501327/143977490-4d15dab4-c31f-4551-bf75-a19acc3a604c.png)
+
