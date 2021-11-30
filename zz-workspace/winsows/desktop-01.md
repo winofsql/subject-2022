@@ -20,6 +20,9 @@
 
 ## タスクマネージャ
 ### ショートカットキー : CTRL + SHIFT + ESC
+
+![image](https://user-images.githubusercontent.com/1501327/143966891-8b161a40-e43f-4b6b-864a-699be32b1ad7.png)
+
 https://user-images.githubusercontent.com/1501327/143966585-01e48533-13c8-4a07-bb90-71b2b8f248b8.mp4
 
 #### ▼ タスクマネージャの詳細で必要な列はプラットホーム
