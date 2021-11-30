@@ -88,3 +88,12 @@ RunDLL32.EXE shell32.dll,Control_RunDLL appwiz.cpl
 
 ![image](https://user-images.githubusercontent.com/1501327/143977490-4d15dab4-c31f-4551-bf75-a19acc3a604c.png)
 
+## ⭐ デバイスマネージャ
+```
+control.exe /name Microsoft.DeviceManager
+```
+![image](https://user-images.githubusercontent.com/1501327/143978005-b7e8a112-afa7-48d7-a7db-e5f0fc1fe318.png)
+- WIN + PAUSE ( システムの詳細情報 )
+- デバイスマネージャ( 右サイドリンク )
+
+
