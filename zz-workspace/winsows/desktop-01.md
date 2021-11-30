@@ -59,8 +59,10 @@ CompMgmtLauncher.exe
 ```
 ![image](https://user-images.githubusercontent.com/1501327/143976075-9c2a0fef-64f9-49cb-93a7-1508e81316b3.png)
 
-- コンピュータアイコンを右クリック
+- デスクトップのコンピュータアイコンを右クリック
 - 管理
+
+<br>
 
 - エクスプローラの PC を右クリック
 - 管理
