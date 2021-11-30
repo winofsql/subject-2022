@@ -53,3 +53,15 @@ control.exe desk.cpl,,0
 
 ![image](https://user-images.githubusercontent.com/1501327/143975539-a59da7ca-edcd-4ab8-88c6-4d0b0e60bce9.png)
 
+## 管理ツール
+```
+CompMgmtLauncher.exe
+```
+![image](https://user-images.githubusercontent.com/1501327/143976075-9c2a0fef-64f9-49cb-93a7-1508e81316b3.png)
+
+- コンピュータアイコンを右クリック
+- 管理
+
+- エクスプローラの PC を右クリック
+- 管理
+
