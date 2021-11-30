@@ -30,6 +30,7 @@
 ![image](https://user-images.githubusercontent.com/1501327/143733976-162e2e79-1d81-40b4-aa52-9dde6ba06fba.png)\
 ※ 管理者権限をアプリに付加して実行できる
 
-
+### メニューからショートカット作成
+https://user-images.githubusercontent.com/1501327/143965272-22ca0420-8012-406a-b451-dd18f0d70723.mp4
 
 
