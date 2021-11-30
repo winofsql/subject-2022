@@ -52,7 +52,7 @@ RUNDLL32.EXE shell32.dll,Options_RunDLL 7
 - not とタイプ ( タイプした英数字に最初から一致する場所に位置づけ
 - notepad.exe を選択
 - マウスで**右ドラッグ**
-- ショートカット作成を選択
+- **ショートカットをここに作成**を選択
 
 https://user-images.githubusercontent.com/1501327/143969985-356e8809-d322-4800-a5c8-d177a9d38725.mp4
 
