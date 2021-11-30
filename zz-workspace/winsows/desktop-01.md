@@ -1,12 +1,12 @@
 # Windows
-## 画面部分キャプチャ : WIN + SHIFT + S
+## ⭐ 画面部分キャプチャ : WIN + SHIFT + S
 ( ウインドウのキャプチャは、ALT + PrintScreen )
 
-## デスクトップ表示(戻す) : WIN + D
+## ⭐ デスクトップ表示(戻す) : WIN + D
 ![image](https://user-images.githubusercontent.com/1501327/143732733-643d7e3c-cf3b-458a-b32c-286e9b2305a0.png)\
 **タスクバーの右端をクリックするとデスクトップが表示されます**
 
-## ウインドウを左右に並べるには?
+## ⭐ ウインドウを左右に並べるには?
 - 右に置きたいウインドウをドラッグしてデスクトップの右端へ持って行く
    - **Windows のマルチタスクの ウインドウのスナップを使用します**
 - そうすると、残ったウインドウの一覧が左半分に表示されるので、選択する
@@ -17,7 +17,7 @@
 
 ![image](https://user-images.githubusercontent.com/1501327/143733503-bef7a189-0b12-44bc-bbb3-0cf25ba69480.png)
 
-## タスクマネージャ
+## ⭐ タスクマネージャ
 ### ショートカットキー : CTRL + SHIFT + ESC
 
 ![image](https://user-images.githubusercontent.com/1501327/143967155-dff4d7fa-f516-42a4-87ea-d8c466b38987.png)
