@@ -40,7 +40,7 @@ https://user-images.githubusercontent.com/1501327/143965272-22ca0420-8012-406a-b
 ## ⭐ シャットダウンダイアログ : デスクトップフォーカスで ALT + F4
 ![image](https://user-images.githubusercontent.com/1501327/143975037-70baa020-c92a-462e-a646-43367406151f.png)
 
-## デスクトップアイコンの設定
+## ⭐ デスクトップアイコンの設定
 ```
 control.exe desk.cpl,,0
 ```
