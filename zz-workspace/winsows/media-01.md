@@ -4,6 +4,8 @@
 - mspaint に貼り付け
 
 ![image](https://user-images.githubusercontent.com/1501327/144362937-569e7923-c60b-449f-a8d0-209a3f82ebb7.png)
+![image](https://user-images.githubusercontent.com/1501327/144363178-b6250f74-1cb7-433c-a03a-672fdf31f1b4.png)
+
 
 - その内容の一部分を GitHub や Twitter に直接持っていきたい場合は、WIN + SHIFT + S
 
