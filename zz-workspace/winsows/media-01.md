@@ -17,4 +17,8 @@
 
 ![image](https://user-images.githubusercontent.com/1501327/144367328-cbfdf239-6aa9-45ff-a963-a8f6c03868b1.png)
 
-- 
+- 選択から『全て選択』
+
+![image](https://user-images.githubusercontent.com/1501327/144367509-81a3dd4e-a068-4e92-86e7-f75a1a1ab33e.png)
+
+
