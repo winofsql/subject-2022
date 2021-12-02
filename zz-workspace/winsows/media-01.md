@@ -21,4 +21,16 @@
 
 ![image](https://user-images.githubusercontent.com/1501327/144367509-81a3dd4e-a068-4e92-86e7-f75a1a1ab33e.png)
 
+- 編集から『範囲の境界線を描画』
 
+![image](https://user-images.githubusercontent.com/1501327/144367596-c4c64a1a-a2af-4dd7-891f-458fc30b7ca3.png)
+
+- アンチエイリアスは OFF
+- 線幅は 2
+- ストロークボタン
+
+![image](https://user-images.githubusercontent.com/1501327/144367846-7b8a6a23-5630-4802-bb5e-5b370eea8ab8.png)
+
+- 編集からコピー
+
+![image](https://user-images.githubusercontent.com/1501327/144368054-3b8688f7-4e27-4c10-b62b-7f11d966bff6.png)
