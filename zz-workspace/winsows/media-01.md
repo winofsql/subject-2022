@@ -9,7 +9,6 @@
 
 - その内容の一部分を GitHub や Twitter に直接持っていきたい場合は、WIN + SHIFT + S
 
-- 画像ファイル化したい場合は、mspaint の選択ツールで選択
-- CTRL + C から CTRL + V
+- 画像ファイル化したい場合は、mspaint に再度 CTRL + V
 - トリミング
 - 名前を付けて保存
