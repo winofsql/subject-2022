@@ -11,3 +11,10 @@
 
 - その内容の一部分を GitHub や Twitter に直接持っていきたい場合は、100% にして WIN + SHIFT + S
 
+## クリップボード内の画像の輪郭に罫線を引く
+- WIN + SHIFT + S で適当な部分をキャプチャ
+- GIMP で画像化
+
+![image](https://user-images.githubusercontent.com/1501327/144367328-cbfdf239-6aa9-45ff-a963-a8f6c03868b1.png)
+
+- 
