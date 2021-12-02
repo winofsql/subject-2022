@@ -3,3 +3,8 @@
 - いったん PrintScreen でデスクトップ全体をキャプチャ
 - mspaint に貼り付け
 - その内容の一部分を GitHub や Twitter に直接持っていきたい場合は、WIN + SHIFT + S
+
+- 画像ファイル化したい場合は、mspaint の選択ツールで選択
+- CTRL + C から CTRL + V
+- トリミング
+- 名前を付けて保存
