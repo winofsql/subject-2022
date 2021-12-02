@@ -3,7 +3,7 @@
 - いったん PrintScreen でデスクトップ全体をキャプチャ
 - mspaint に貼り付け
 
-![image](https://user-images.githubusercontent.com/1501327/144366161-e9623524-3b90-4818-ae47-f39c53f0f0c0.png)
+![image](https://user-images.githubusercontent.com/1501327/144366217-1aea3e26-1aa1-4306-9883-1499b90f2a11.png)
 
 - その内容の一部分を GitHub や Twitter に直接持っていきたい場合は、WIN + SHIFT + S
 
