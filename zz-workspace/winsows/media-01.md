@@ -31,6 +31,6 @@
 
 ![image](https://user-images.githubusercontent.com/1501327/144367846-7b8a6a23-5630-4802-bb5e-5b370eea8ab8.png)
 
-- 編集からコピー
+- 編集からコピーしてここに貼り付け
 
 ![image](https://user-images.githubusercontent.com/1501327/144368054-3b8688f7-4e27-4c10-b62b-7f11d966bff6.png)
