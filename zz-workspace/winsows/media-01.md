@@ -2,6 +2,8 @@
 - キー操作によってキャプチャできない瞬間用
 - いったん PrintScreen でデスクトップ全体をキャプチャ
 - mspaint に貼り付け
+- ![image](https://user-images.githubusercontent.com/1501327/144362580-567bca30-9237-439e-a4e9-85211068479b.png)
+
 - その内容の一部分を GitHub や Twitter に直接持っていきたい場合は、WIN + SHIFT + S
 
 - 画像ファイル化したい場合は、mspaint の選択ツールで選択
