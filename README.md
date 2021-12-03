@@ -1,6 +1,6 @@
 # Subject ワークスペース用テンプレート
 
-## [拡張 => ](zz-workspace/%E6%8B%A1%E5%BC%B5.md)
+## [拡張一覧](zz-workspace/%E6%8B%A1%E5%BC%B5.md)
 ## 環境 => https://github.com/winofsql/vscode-template
 ワークスペース テンプレート
 
