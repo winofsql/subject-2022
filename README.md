@@ -10,19 +10,17 @@
 
 #### 3 : -main を -9999 フォーマットで当日日付に変更
 
-#### 4 : VSCode で フォルダとして中の zz-workspace-vbs フォルダを開く
+#### 4 : lightbox.code-workspace を エクスプローラから実行
 
-#### 5 : Run Terminal Command で 設定から 『基本設定』 を実行
+#### 5 : zz-workspace 内の download フォルダを開いて setup-vscode-user.vbs を F5 で実行
 
-#### 6 : Run Terminal Command で 設定から 『ワークスペース作成』 を実行
+#### 6 : Run Terminal Command で 設定から 『基本設定』 を実行
 
-#### 7 : フォルダで開いた VSCode を閉じる
+#### 7 : Run Terminal Command で 設定から 『ワークスペース作成』 を実行
 
-#### 8 : lightbox.code-workspace を エクスプローラから実行
+#### 8 : zz-workspace-vbs フォルダと同じ階層に、言語用フォルダ( ※1 )を作成
 
-#### 9 : zz-workspace-vbs フォルダと同じところに、言語用フォルダ( ※1 )を作成
-
-#### 10 : Run Terminal Command で 設定から 『ワークスペース作成』 を実行
+#### 9 : Run Terminal Command で 設定から 『ワークスペース作成』 を実行
 
 ![image](https://user-images.githubusercontent.com/1501327/134792059-fea2d3a3-c180-4246-bc03-5f3a6814adaf.png)
 
