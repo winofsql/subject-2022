@@ -2,6 +2,7 @@
 - キー操作によってキャプチャできない瞬間用
 - いったん PrintScreen でデスクトップ全体をキャプチャ
 - mspaint に貼り付け
+- 50% 表示
 
 ![image](https://user-images.githubusercontent.com/1501327/144366328-91120f56-b2d1-48b0-a4b4-3df3a107454d.png)
 
