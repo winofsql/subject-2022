@@ -23,7 +23,7 @@
 
 #### 9 : Run Terminal Command で 設定から 『ワークスペース作成』 を実行
 
-<br><br>
+<br>
 
 ![image](https://user-images.githubusercontent.com/1501327/144695570-135ce380-0d41-44e2-af18-393e91b0767e.png)
 
