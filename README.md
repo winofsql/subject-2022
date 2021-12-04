@@ -25,7 +25,7 @@
 
 <br><br>
 
-![image](https://user-images.githubusercontent.com/1501327/134792059-fea2d3a3-c180-4246-bc03-5f3a6814adaf.png)
+![image](https://user-images.githubusercontent.com/1501327/144695570-135ce380-0d41-44e2-af18-393e91b0767e.png)
 
 拡張を指定フォルダに保存している場合は、vscode.bat を作成して **『その他のアプリ』** から選択
 ```
