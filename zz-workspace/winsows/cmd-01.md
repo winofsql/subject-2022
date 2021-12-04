@@ -8,7 +8,7 @@ cmd /t:F0
 
 ![image](https://user-images.githubusercontent.com/1501327/144368832-14ee92ed-4111-43bf-953d-fa2b877a5adb.png)
 
-## ⭐ コマンドプロンプトウインドウの最大化( 元に戻すのも同じ )
+## ⭐ コマンドプロンプトウインドウの全画面表示 元に戻すのも同じ )
 ```
 ALT + ENTER
 ```
