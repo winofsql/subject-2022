@@ -15,6 +15,9 @@ ALT + ENTER
 ![image](https://user-images.githubusercontent.com/1501327/144369546-1d9fe26b-6ba0-4911-bf8e-39491c861ef5.png)
 **※ F11 でも可能ですが、実行中は効かない**
 
+## ⭐ コマンドプロンプトを管理者権限で実行( ▼ この後、CTRL + SHIFT+ ENTER )
+![image](https://user-images.githubusercontent.com/1501327/144695776-193f0827-99bc-4752-b89c-11177afee8f4.png)
+
 
 <br><br><br>
 - [古い参考資料1](https://atmarkit.itmedia.co.jp/ait/articles/0006/22/news001_2.html)
