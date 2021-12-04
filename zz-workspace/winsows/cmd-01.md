@@ -16,8 +16,8 @@ ALT + ENTER
 **※ F11 でも可能ですが、実行中は効かない**
 
 ## ⭐ コマンドプロンプトを管理者権限で実行( ▼ この後、CTRL + SHIFT+ ENTER )
-![image](https://user-images.githubusercontent.com/1501327/144696028-a66456e2-dd4a-40f7-a68d-ef4cf7bb2213.png)
-**[コマンドプロンプトを『管理者権限』で実行する 8つの方法](https://winofsql.jp/lightbox/command-admin-20211104-964.html)
+![image](https://user-images.githubusercontent.com/1501327/144696028-a66456e2-dd4a-40f7-a68d-ef4cf7bb2213.png)\
+**[コマンドプロンプトを『管理者権限』で実行する 8つの方法](https://winofsql.jp/lightbox/command-admin-20211104-964.html)**
 
 <br><br><br>
 - [古い参考資料1](https://atmarkit.itmedia.co.jp/ait/articles/0006/22/news001_2.html)
