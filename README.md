@@ -11,7 +11,7 @@
 
 #### 3 : -main を -9999 フォーマットで当日日付に変更
 
-#### 4 : lightbox.code-workspace を エクスプローラから実行
+#### 4 : lightbox.code-workspace を エクスプローラから実行 ( ※1 )
 
 #### 5 : zz-workspace 内の download フォルダを開いて setup-vscode-user.vbs を F5 で実行
 
@@ -25,6 +25,7 @@
 
 <br>
 
+※1\
 ![image](https://user-images.githubusercontent.com/1501327/144695570-135ce380-0d41-44e2-af18-393e91b0767e.png)
 
 拡張を指定フォルダに保存している場合は、vscode.bat を作成して **『その他のアプリ』** から選択
