@@ -19,9 +19,7 @@ ALT + ENTER
 ![image](https://user-images.githubusercontent.com/1501327/144696028-a66456e2-dd4a-40f7-a68d-ef4cf7bb2213.png)\
 **✅ [コマンドプロンプトを『管理者権限』で実行する 8つの方法](https://winofsql.jp/lightbox/command-admin-20211104-964.html)**
 
-
-
-
+## ⭐ コマンドプロンプトの表示を矩形選択してクリップボードにコピー
 https://user-images.githubusercontent.com/1501327/144696893-4620eca7-89e1-45b9-8d4f-b7ba6fee027f.mp4
 
 
