@@ -16,7 +16,7 @@ ALT + ENTER
 **※ F11 でも可能ですが、実行中は効かない**
 
 ## ⭐ コマンドプロンプトを管理者権限で実行( ▼ この後、CTRL + SHIFT+ ENTER )
-![image](https://user-images.githubusercontent.com/1501327/144695776-193f0827-99bc-4752-b89c-11177afee8f4.png)
+![image](https://user-images.githubusercontent.com/1501327/144695843-21f7e7b4-0725-4d0d-a2d0-bb4ffa15578f.png)
 
 
 <br><br><br>
