@@ -25,6 +25,8 @@ https://user-images.githubusercontent.com/1501327/144696893-4620eca7-89e1-45b9-8
 ## ⭐ コマンド サンプル ➀
 https://user-images.githubusercontent.com/1501327/144730787-a96e0f8f-c59e-49ff-b247-3edf6c97c1f3.mp4
 
+## ⭐ コマンド サンプル ➁
+https://user-images.githubusercontent.com/1501327/144731423-28df5ffb-7f41-4edc-a629-abaa257a3184.mp4
 
 
 <br><br><br>
