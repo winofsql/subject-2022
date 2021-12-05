@@ -37,9 +37,10 @@
 ![image](https://user-images.githubusercontent.com/1501327/144368054-3b8688f7-4e27-4c10-b62b-7f11d966bff6.png)
 
 
-## ⭐ WIN + G で、Active なウインドウの動画作成( ダイアログ等・コマンドプロンプトは録画されない )
+## ⭐ WIN + G で、Active なウインドウの動画作成( ダイアログ等は録画されない )
 
-![win-g-top](https://user-images.githubusercontent.com/1501327/144552646-a3c65e65-4bbe-47dc-b438-0a34b2157572.png)
+![win-g-top](https://user-images.githubusercontent.com/1501327/144552646-a3c65e65-4bbe-47dc-b438-0a34b2157572.png)\
+**コマンドプロンプトは対象外**
 
 - 対象ウインドウを選択
 - WIN + G
