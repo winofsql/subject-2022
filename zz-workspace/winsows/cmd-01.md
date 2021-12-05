@@ -28,6 +28,9 @@ https://user-images.githubusercontent.com/1501327/144730787-a96e0f8f-c59e-49ff-b
 ## ⭐ コマンド サンプル ➁
 https://user-images.githubusercontent.com/1501327/144731423-28df5ffb-7f41-4edc-a629-abaa257a3184.mp4
 
+## ⭐ コマンド サンプル ➂
+https://user-images.githubusercontent.com/1501327/144731774-42c195aa-6175-4209-8a22-2d3e4171054f.mp4
+
 
 <br><br><br>
 - [古い参考資料1](https://atmarkit.itmedia.co.jp/ait/articles/0006/22/news001_2.html)
