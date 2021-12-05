@@ -22,7 +22,7 @@ ALT + ENTER
 ## ⭐ コマンドプロンプトの表示を矩形選択してクリップボードにコピー
 https://user-images.githubusercontent.com/1501327/144696893-4620eca7-89e1-45b9-8d4f-b7ba6fee027f.mp4
 
-## ⭐ コマンドプロンプトサンプル➀
+## ⭐ コマンド サンプル ➀
 https://user-images.githubusercontent.com/1501327/144730787-a96e0f8f-c59e-49ff-b247-3edf6c97c1f3.mp4
 
 
