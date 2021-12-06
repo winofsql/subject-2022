@@ -64,7 +64,7 @@ objSrvHTTP.Send
 Stream.Open
 Stream.Type = 1
 Stream.Write objSrvHTTP.responseBody
-Stream.SaveToFile path & "\start-localhost.vbs", 2
+Stream.SaveToFile path & "\start-root-localhost.vbs", 2
 Stream.Close
 
 Call objSrvHTTP.Open("GET", "https://github.com/winofsql/vscode-template/raw/main/folder-vscode-settings-setup.vbs" & "?dummy=" & Timer, False )
