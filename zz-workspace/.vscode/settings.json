@@ -1,5 +1,4 @@
 {
-    "-files.encoding": "shiftjis",
     "window.title": "${dirty}${activeEditorMedium}${separator}${rootPath}${separator}${rootName}",
     "code-runner.runInTerminal": true,
     "code-runner.fileDirectoryAsCwd": true,
@@ -126,6 +125,18 @@
         },
         {
             "command": "%windir%\\system32\\odbcad32.exe && exit",
+            "name": "───────────────────────────────────────────",
+            "auto": true,
+            "group": "🟠 PHP"
+        },
+        {
+            "command": "git clone https://github.com/winofsql/php-board-v02-textfile.git && cd php-board-v02-textfile && rmdir .git /S /Q",
+            "name": "🟥 【掲示板 ver 2】MVC 掲示板 : テキストファイル",
+            "auto": true,
+            "group": "🟠 PHP"
+        },
+        {
+            "command": "%windir%\\system32\\cleanmgr.exe && exit",
             "name": "───────────────────────────────────────────",
             "auto": true,
             "group": "🟠 PHP"
