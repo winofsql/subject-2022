@@ -2,7 +2,7 @@
     "folders": [
         {
             "path": "zz-workspace"
-        },
+        }
     ],
     "settings": {
         "window.title": "${dirty}${activeEditorMedium}${separator}${rootPath}${separator}${rootName}",
