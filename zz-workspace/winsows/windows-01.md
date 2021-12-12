@@ -7,7 +7,7 @@
 | ペイント | mspaint
 | タスクマネージャ | taskmgr
 | コントロールパネル | control
-| 拡大鏡 | WIN + テンキーのプラス
+| 拡大鏡 | magnify : WIN + テンキーのプラス
 | レジストリエディタ | regedit
 
 
