@@ -37,5 +37,10 @@
 
 ![image](https://user-images.githubusercontent.com/1501327/145705060-0d887a5d-c78a-4595-a3dc-7d524ddd2f32.png)
 
+## Windows のキーボード ショートカット
 
+| キー | 内容 ♥
+| :--- | :--- 
+| CTRL+C ( CTRL+Insert ) | コピー
+| CTRL+V ( SHIFT+Insert ) | ペースト
 
