@@ -6,7 +6,7 @@
 ```
 RUNDLL32.EXE shell32.dll,Options_RunDLL 7
 ```
-※ Explorer 🢂 表示タブ 🢂 オプション
+※ Explorer 🢂 表示タブ 🢂 オプション\
 ![image](https://user-images.githubusercontent.com/1501327/145699916-a5d1b4c3-6305-4a21-a5c8-19dd490b9375.png)
 
 <br>
