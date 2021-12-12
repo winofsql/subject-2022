@@ -41,6 +41,9 @@
 
 | キー | 内容 ♥
 | :--- | :--- 
-| CTRL+C ( CTRL+Insert ) | コピー
-| CTRL+V ( SHIFT+Insert ) | ペースト
+| CTRL + C ( CTRL + Insert ) | コピー
+| CTRL + V ( SHIFT + Insert ) | ペースト
+| CTRL + A | 全て選択
+| ALT + F4 | ウインドウの終了
+
 
