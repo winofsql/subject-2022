@@ -57,7 +57,8 @@ https://user-images.githubusercontent.com/1501327/143969985-356e8809-d322-4800-a
 
 ## ⭐ ネットワークドライブの割り当て
 ![image](https://user-images.githubusercontent.com/1501327/145709610-9b2ca13c-c9b9-40ec-9f32-5aeee4f7958c.png)\
-![image](https://user-images.githubusercontent.com/1501327/145709639-8c3071e6-da53-4a6f-bfc3-12773584577a.png)
+![image](https://user-images.githubusercontent.com/1501327/145709683-308d98be-e09d-4ef7-ada0-1814126d56a2.png)
+
 ```
 RunDLL32.EXE shell32.dll,SHHelpShortcuts_RunDLL Connect
 ```
