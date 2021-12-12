@@ -2,5 +2,8 @@
 ```
 notepad.exe %SystemRoot%\system32\drivers\etc\hosts
 ```
+## レジストリエントリ
 
-HKLM\System\CurrentControlSet\Control\ComputerName\ComputerName
+| 名称 | 実行
+| :--- | :--- 
+| PC名 | HKLM\System\CurrentControlSet\Control\ComputerName\ComputerName
