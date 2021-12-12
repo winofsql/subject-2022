@@ -7,7 +7,7 @@
 | ペイント | mspaint
 | タスクマネージャ | taskmgr
 | コントロールパネル | control
-| 拡大鏡 | magnify : WIN + プラス
+| 拡大鏡 | magnify : WIN + プラス,WIN + マイナス,WIN + ESC
 | レジストリエディタ | regedit
 | リモートデスクトップ接続 | mstsc
 
