@@ -34,5 +34,7 @@
 | M | すべてのウィンドウを最小化する Shift + M で元に戻す )
 | Prt Scr | デスクトップを画像化( ピクチャの中のスクリーンショット )
 
-![image](https://user-images.githubusercontent.com/1501327/145705028-188de550-2007-4376-b3c1-318849f02542.png)
+![image](https://user-images.githubusercontent.com/1501327/145705060-0d887a5d-c78a-4595-a3dc-7d524ddd2f32.png)
+
+
 
