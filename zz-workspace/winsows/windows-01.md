@@ -18,7 +18,7 @@
 
 ![image](https://user-images.githubusercontent.com/1501327/145702847-13755607-f7cc-4964-82a9-3d922f6d1e37.png)
 
-| キー | 内容 
+| キー | 内容 ♥
 | :--- | :--- 
 | I | 設定
 | E | エクスプローラ
