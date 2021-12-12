@@ -21,8 +21,7 @@ RUNDLL32.EXE shell32.dll,Options_RunDLL 7
 
 
 ## ⭐ SendTo フォルダを開く
-
-![image](https://user-images.githubusercontent.com/1501327/143815435-0cdbf900-117e-489e-8623-9611bfa7f780.png)
+![image](https://user-images.githubusercontent.com/1501327/145699982-2dc4ebc8-af1a-456e-9f8c-2c1d4b5f1d17.png)
 
 ## ⭐ グループ化
 
