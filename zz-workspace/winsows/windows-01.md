@@ -12,6 +12,7 @@
 | レジストリエディタ | regedit
 | リモートデスクトップ接続 | mstsc
 | ユーザとグループ | netplwiz
+| 共有フォルダ | fsmgmt.msc
 
 ![image](https://user-images.githubusercontent.com/1501327/145700194-2bad8cb8-cdd2-43b1-98e0-5fc3947e1632.png)
 
