@@ -167,8 +167,8 @@
                 "group": "🟥 Java"
             },
             {
-                "command": "start ms-settings:windowsupdate && exit",
-                "name": "──────────────────────────────────【Windows Update】",
+                "command": "start chrome https://docs.oracle.com/javase/jp/11/docs/api/java.base/java/util/ArrayList.html#method.summary && exit",
+                "name": "───────────────────────────────【ArrayList ( Java11 )】",
                 "auto": true,
                 "group": "🟥 Java"
             },
@@ -204,7 +204,13 @@
             },
             {
                 "command": "mkdir ..\\java-csv-read-ms932 && cd ..\\java-csv-read-ms932 && cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\download.vbs https://github.com/winofsql/java-csv-read-ms932/raw/main Main.java Main2.java && cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\workspace-build-download.vbs",
-                "name": "📄 java-csv-read-ms932",
+                "name": "📄 【SHIFT_JIS CSV の読込み】 : java-csv-read-ms932",
+                "auto": true,
+                "group": "🟥 Java"
+            },
+            {
+                "command": "start chrome https://docs.oracle.com/javase/jp/11/docs/api/java.base/java/net/URL.html#openConnection() && exit",
+                "name": "────────────────────────────【URL openConnection ( Java11 )】",
                 "auto": true,
                 "group": "🟥 Java"
             },
@@ -485,7 +491,7 @@
                 "group": "🟦 C#"
             },
             {
-                "command": "mkdir ..\\cs-form-mail-mailkit && cd ..\\cs-form-mail-mailkit && dotnet new winforms && cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\download.vbs https://github.com/winofsql/cs-form-mail-mailkit/raw/main Form1.cs Form1.Designer.cs && dotnet add package MailKit --version 2.15.0 && cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\workspace-build-download.vbs",
+                "command": "mkdir ..\\cs-form-mail-mailkit && cd ..\\cs-form-mail-mailkit && dotnet new winforms && cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\download.vbs https://github.com/winofsql/cs-form-mail-mailkit/raw/main Form1.cs Form1.Designer.cs && dotnet add package MailKit --version 2.15.0 && dotnet add package System.Text.Encoding.CodePages && cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\workspace-build-download.vbs",
                 "name": "💌【メール送信】MailKit でメール送信",
                 "auto": true,
                 "group": "🟦 C#"
@@ -791,8 +797,8 @@
                 "group": "🖐 設定"
             },
             {
-                "command": "cd ..\\..\\ && git clone https://github.com/winofsql/subject.git && ren subject subject-%date:~5,2%%date:~8,2% && cd subject-%date:~5,2%%date:~8,2% && rmdir .git /S /Q && copy README.md zz-workspace && Code lightbox.code-workspace && exit",
-                "name": "🟥 SUBJECT 今日の日付",
+                "command": "if exist \\app\\workspace ( cd \\app\\workspace && git clone https://github.com/winofsql/subject.git && ren subject subject-%date:~5,2%%date:~8,2% && cd subject-%date:~5,2%%date:~8,2% && rmdir .git /S /Q && copy README.md zz-workspace && Code lightbox.code-workspace && exit ) else ( mkdir \\app\\workspace && cd \\app\\workspace && git clone https://github.com/winofsql/subject.git && ren subject subject-%date:~5,2%%date:~8,2% && cd subject-%date:~5,2%%date:~8,2% && rmdir .git /S /Q && copy README.md zz-workspace && Code lightbox.code-workspace && exit )",
+                "name": "🟥 app\\workspace : SUBJECT 今日の日付",
                 "auto": true,
                 "group": "🖐 設定"
             },
