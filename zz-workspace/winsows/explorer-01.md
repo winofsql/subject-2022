@@ -17,7 +17,9 @@ RUNDLL32.EXE shell32.dll,Options_RunDLL 7
 ![image](https://user-images.githubusercontent.com/1501327/143807363-56cdd351-8083-4f33-9797-20162206929c.png)
 
 ## ⭐ テンポラリフォルダを開く
-![image](https://user-images.githubusercontent.com/1501327/145699781-710f7e9b-e947-45b4-9488-0fcfd727b68f.png)
+![image](https://user-images.githubusercontent.com/1501327/145699781-710f7e9b-e947-45b4-9488-0fcfd727b68f.png)\
+![image](https://user-images.githubusercontent.com/1501327/145699814-749d8f21-66d8-405f-a4f2-2ed286cfdc9d.png)
+
 
 ## ⭐ SendTo フォルダを開く
 
