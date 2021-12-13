@@ -41,3 +41,10 @@ taskschd.msc
 secpol.msc
 ```
 ![image](https://user-images.githubusercontent.com/1501327/145761658-9c1b3a44-cdd1-4033-9b1c-4dedd0372ab2.png)
+
+
+## ローカルグループポリシーエディタ
+```
+gpedit.msc
+```
+![image](https://user-images.githubusercontent.com/1501327/145762627-3b6c1eb5-0b36-430a-bc56-541ed7377095.png)
