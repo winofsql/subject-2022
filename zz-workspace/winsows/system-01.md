@@ -17,3 +17,9 @@ notepad.exe %SystemRoot%\system32\drivers\etc\hosts
 eventvwr.msc
 ```
 ![image](https://user-images.githubusercontent.com/1501327/145759593-ceba9efd-61ab-4100-a075-0024e7b52e19.png)
+
+## サービス
+```
+services.msc 
+```
+![image](https://user-images.githubusercontent.com/1501327/145759852-480604e4-6321-4985-afbf-d718a11f286a.png)
