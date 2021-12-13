@@ -10,4 +10,4 @@
 ![image](https://user-images.githubusercontent.com/1501327/145753473-23ec008e-590c-485c-8c86-90c3fe52bf27.png)
 
 ## アプリケーション
-![image](https://user-images.githubusercontent.com/1501327/145753367-c3900903-8cc2-46f7-961d-e491bd885fd2.png)
+![image](https://user-images.githubusercontent.com/1501327/145753517-16b46af6-3932-407c-a83e-ac47624ab7ac.png)
