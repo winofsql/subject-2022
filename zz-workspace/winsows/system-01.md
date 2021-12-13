@@ -35,3 +35,9 @@ fsmgmt.msc
 taskschd.msc
 ```
 ![image](https://user-images.githubusercontent.com/1501327/145761023-878657e6-e0fa-4e10-ad75-8734ef141456.png)
+
+## ローカル セキュリティ ポリシー
+```
+secpol.msc
+```
+![image](https://user-images.githubusercontent.com/1501327/145761658-9c1b3a44-cdd1-4033-9b1c-4dedd0372ab2.png)
