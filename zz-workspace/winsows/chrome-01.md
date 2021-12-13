@@ -20,4 +20,6 @@
 ![image](https://user-images.githubusercontent.com/1501327/145754996-a2ab9ee0-dbcb-4267-ab35-30870e5af3c5.png)\
 ![image](https://user-images.githubusercontent.com/1501327/145755169-31f0f597-4be2-4106-8e5e-f1dfb26f00f5.png)
 
+## QR コード
+![image](https://user-images.githubusercontent.com/1501327/145755439-77effd15-fcef-46cd-b201-b50f2a8226ca.png)
 
