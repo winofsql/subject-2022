@@ -53,4 +53,4 @@ gpedit.msc
 ```
 RunDLL32.EXE shell32.dll,Control_RunDLL ncpa.cpl
 ```
-![image](https://user-images.githubusercontent.com/1501327/145762911-7ef72a0a-55c7-479b-8f04-57defa40e633.png)
+![image](https://user-images.githubusercontent.com/1501327/145763147-9f1c3c1f-58c3-40c3-9164-fc7dd64f563d.png)
