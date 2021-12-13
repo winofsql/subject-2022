@@ -8,3 +8,6 @@
 
 ## ネットワーク
 ![image](https://user-images.githubusercontent.com/1501327/145753255-9c99cf0f-7eae-4161-92c5-cb929250aca7.png)
+
+## アプリケーション
+![image](https://user-images.githubusercontent.com/1501327/145753367-c3900903-8cc2-46f7-961d-e491bd885fd2.png)
