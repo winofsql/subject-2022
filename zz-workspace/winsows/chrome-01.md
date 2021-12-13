@@ -38,3 +38,7 @@
 ## ダウンロード時にフォルダを選択する
 ![image](https://user-images.githubusercontent.com/1501327/145756772-158d6b69-0b77-45a4-aea0-0c1ed86183f8.png)
 
+## Chrome の内部ページ一覧
+```
+chrome://chrome-urls/
+```
