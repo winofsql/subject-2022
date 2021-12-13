@@ -8,3 +8,6 @@ CTRL + 1
 
 ## 先頭にシングルクォート入力で文字列化
 ![image](https://user-images.githubusercontent.com/1501327/145766490-af5ddf59-b8ce-4f90-8eac-e05bcc8ea2b6.png)
+
+## 開発メニューの表示
+![image](https://user-images.githubusercontent.com/1501327/145766717-22329db7-bb48-451d-8df4-08a0da26c62a.png)
