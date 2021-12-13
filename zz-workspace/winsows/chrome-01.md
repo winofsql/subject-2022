@@ -32,4 +32,4 @@
 ![image](https://user-images.githubusercontent.com/1501327/145756372-6eac466c-5d47-45b1-b858-0378f5aedb35.png)
 
 ## ダウンロード時にフォルダを選択する
-![image](https://user-images.githubusercontent.com/1501327/145756732-0c8dfba6-5840-40b5-b435-e5ebca0a9564.png)
+![image](https://user-images.githubusercontent.com/1501327/145756772-158d6b69-0b77-45a4-aea0-0c1ed86183f8.png)
