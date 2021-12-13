@@ -13,4 +13,4 @@ CTRL + 1
 ![image](https://user-images.githubusercontent.com/1501327/145766717-22329db7-bb48-451d-8df4-08a0da26c62a.png)
 
 ## クイックアクセスツールバー( 印刷プレビューは必須 )
-![image](https://user-images.githubusercontent.com/1501327/145767121-baed1bcc-8471-45a2-86e0-c7c88fc204bb.png)
+![image](https://user-images.githubusercontent.com/1501327/145767349-93aed1f8-4751-4f79-810f-18557cb16c8b.png)
