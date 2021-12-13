@@ -55,6 +55,12 @@ lusrmgr.msc
 ```
 ![image](https://user-images.githubusercontent.com/1501327/145763411-71286583-363d-487a-8c8c-cea984a39f04.png)
 
+## ファイアーウォール
+```
+wf.msc
+```
+![image](https://user-images.githubusercontent.com/1501327/145764000-2bbdf2a7-833d-410b-830b-450057ca877c.png)
+
 
 ## ネットワーク接続
 ```
