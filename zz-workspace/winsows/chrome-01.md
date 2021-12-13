@@ -27,3 +27,6 @@
 ## キュッシュの消去とハード再読み込み
 **F12 でデベロッパーツールを標示して再読み込みアイコンを右クリック**\
 ![image](https://user-images.githubusercontent.com/1501327/145755997-51b56f44-bc3f-4bbb-8f1e-1059ac89b7d6.png)
+
+## ブラウザを閉じる時にログアウト
+![image](https://user-images.githubusercontent.com/1501327/145756372-6eac466c-5d47-45b1-b858-0378f5aedb35.png)
