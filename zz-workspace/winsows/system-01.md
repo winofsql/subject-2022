@@ -23,3 +23,9 @@ eventvwr.msc
 services.msc 
 ```
 ![image](https://user-images.githubusercontent.com/1501327/145759944-57438ea4-b36a-4fbf-9cc4-e8561f226fed.png)
+
+## 共有フォルダ
+```
+fsmgmt.msc
+```
+![image](https://user-images.githubusercontent.com/1501327/145760336-549caa63-79d3-4ee6-b7a8-f39aaf0a6284.png)
