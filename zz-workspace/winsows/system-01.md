@@ -28,4 +28,4 @@ services.msc
 ```
 fsmgmt.msc
 ```
-![image](https://user-images.githubusercontent.com/1501327/145760383-315417ca-caf5-472b-bd57-1cf69f5b9061.png)
+![image](https://user-images.githubusercontent.com/1501327/145760588-fe44bef8-26f6-4f20-ad4c-4a7043e3236c.png)
