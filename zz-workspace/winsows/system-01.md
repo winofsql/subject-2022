@@ -12,3 +12,7 @@ notepad.exe %SystemRoot%\system32\drivers\etc\hosts
 | ODBCドライバ(64) | HKLM\SOFTWARE\ODBC\ODBCINST.INI
 | ODBCドライバ(32) | HKLM\SOFTWARE\WOW6432Node\ODBC\ODBCINST.INI
 
+## イベントビュアー
+```
+eventvwr.msc
+```
