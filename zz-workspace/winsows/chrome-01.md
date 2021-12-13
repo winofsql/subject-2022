@@ -42,3 +42,7 @@
 ```
 chrome://chrome-urls/
 ```
+
+## 画像サイズの確認
+タプに画像を表示してタブのバルーンで確認\
+![image](https://user-images.githubusercontent.com/1501327/145758172-fbb78b11-1ec6-466c-883d-7095bcdeb158.png)
