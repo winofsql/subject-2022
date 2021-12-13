@@ -11,3 +11,6 @@
 
 ## アプリケーション
 ![image](https://user-images.githubusercontent.com/1501327/145753517-16b46af6-3932-407c-a83e-ac47624ab7ac.png)
+
+## 設定
+![image](https://user-images.githubusercontent.com/1501327/145753734-37a87076-22a1-4b44-9974-6af75f23dfbd.png)
