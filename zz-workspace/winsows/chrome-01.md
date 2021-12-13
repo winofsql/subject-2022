@@ -24,3 +24,5 @@
 ![image](https://user-images.githubusercontent.com/1501327/145755439-77effd15-fcef-46cd-b201-b50f2a8226ca.png)\
 ![image](https://user-images.githubusercontent.com/1501327/145755743-5c6a91b3-d0ea-4da3-bea9-45d4b08757eb.png)
 
+## キュッシュの消去とハード再読み込み
+![image](https://user-images.githubusercontent.com/1501327/145755997-51b56f44-bc3f-4bbb-8f1e-1059ac89b7d6.png)
