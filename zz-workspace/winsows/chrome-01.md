@@ -20,6 +20,10 @@
 ![image](https://user-images.githubusercontent.com/1501327/145754996-a2ab9ee0-dbcb-4267-ab35-30870e5af3c5.png)\
 ![image](https://user-images.githubusercontent.com/1501327/145755169-31f0f597-4be2-4106-8e5e-f1dfb26f00f5.png)
 
+## 無条件に日本語に翻訳する
+**右クリックメニュー**
+![image](https://user-images.githubusercontent.com/1501327/145756913-18822b30-b136-4655-b2cf-d04814a91ab5.png)
+
 ## QR コード
 ![image](https://user-images.githubusercontent.com/1501327/145755439-77effd15-fcef-46cd-b201-b50f2a8226ca.png)\
 ![image](https://user-images.githubusercontent.com/1501327/145755743-5c6a91b3-d0ea-4da3-bea9-45d4b08757eb.png)
@@ -33,3 +37,4 @@
 
 ## ダウンロード時にフォルダを選択する
 ![image](https://user-images.githubusercontent.com/1501327/145756772-158d6b69-0b77-45a4-aea0-0c1ed86183f8.png)
+
