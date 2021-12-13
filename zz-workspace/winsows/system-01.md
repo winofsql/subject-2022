@@ -48,3 +48,9 @@ secpol.msc
 gpedit.msc
 ```
 ![image](https://user-images.githubusercontent.com/1501327/145762627-3b6c1eb5-0b36-430a-bc56-541ed7377095.png)
+
+## ネットワーク接続
+```
+RunDLL32.EXE shell32.dll,Control_RunDLL ncpa.cpl
+```
+![image](https://user-images.githubusercontent.com/1501327/145762911-7ef72a0a-55c7-479b-8f04-57defa40e633.png)
