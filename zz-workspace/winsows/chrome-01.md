@@ -22,7 +22,7 @@
 
 ## 無条件に日本語に翻訳する
 **右クリックメニュー**\
-![image](https://user-images.githubusercontent.com/1501327/145756913-18822b30-b136-4655-b2cf-d04814a91ab5.png)
+![image](https://user-images.githubusercontent.com/1501327/145757063-f9ad3b21-d271-4a3e-822e-3fd151a5cdbd.png)
 
 ## QR コード
 ![image](https://user-images.githubusercontent.com/1501327/145755439-77effd15-fcef-46cd-b201-b50f2a8226ca.png)\
