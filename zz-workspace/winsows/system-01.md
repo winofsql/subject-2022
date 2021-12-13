@@ -49,6 +49,13 @@ gpedit.msc
 ```
 ![image](https://user-images.githubusercontent.com/1501327/145762627-3b6c1eb5-0b36-430a-bc56-541ed7377095.png)
 
+## ローカルユーザとグループ
+```
+lusrmgr.msc
+```
+![image](https://user-images.githubusercontent.com/1501327/145763411-71286583-363d-487a-8c8c-cea984a39f04.png)
+
+
 ## ネットワーク接続
 ```
 RunDLL32.EXE shell32.dll,Control_RunDLL ncpa.cpl
