@@ -21,6 +21,6 @@
 ![image](https://user-images.githubusercontent.com/1501327/145755169-31f0f597-4be2-4106-8e5e-f1dfb26f00f5.png)
 
 ## QR コード
-![image](https://user-images.githubusercontent.com/1501327/145755439-77effd15-fcef-46cd-b201-b50f2a8226ca.png)
-![image](https://user-images.githubusercontent.com/1501327/145755680-42c823f7-f801-439c-81fc-0e49d0f51ca0.png)
+![image](https://user-images.githubusercontent.com/1501327/145755439-77effd15-fcef-46cd-b201-b50f2a8226ca.png)\
+![image](https://user-images.githubusercontent.com/1501327/145755743-5c6a91b3-d0ea-4da3-bea9-45d4b08757eb.png)
 
