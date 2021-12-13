@@ -21,7 +21,7 @@
 ![image](https://user-images.githubusercontent.com/1501327/145755169-31f0f597-4be2-4106-8e5e-f1dfb26f00f5.png)
 
 ## 無条件に日本語に翻訳する
-**右クリックメニュー**
+**右クリックメニュー**\
 ![image](https://user-images.githubusercontent.com/1501327/145756913-18822b30-b136-4655-b2cf-d04814a91ab5.png)
 
 ## QR コード
