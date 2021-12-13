@@ -15,5 +15,8 @@
 | CTRL + S | 現在表示しているページを名前をつけて保存
 | CTRL + T | 新しいタブ
 
+## Google Chrome 翻訳連携
+
+![image](https://user-images.githubusercontent.com/1501327/145754996-a2ab9ee0-dbcb-4267-ab35-30870e5af3c5.png)
 
 
