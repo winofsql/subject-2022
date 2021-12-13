@@ -29,3 +29,9 @@ services.msc
 fsmgmt.msc
 ```
 ![image](https://user-images.githubusercontent.com/1501327/145760588-fe44bef8-26f6-4f20-ad4c-4a7043e3236c.png)
+
+## タスクスケジューラ
+```
+taskschd.msc
+```
+![image](https://user-images.githubusercontent.com/1501327/145761023-878657e6-e0fa-4e10-ad75-8734ef141456.png)
