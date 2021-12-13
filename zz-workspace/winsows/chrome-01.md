@@ -22,4 +22,5 @@
 
 ## QR コード
 ![image](https://user-images.githubusercontent.com/1501327/145755439-77effd15-fcef-46cd-b201-b50f2a8226ca.png)
+![image](https://user-images.githubusercontent.com/1501327/145755680-42c823f7-f801-439c-81fc-0e49d0f51ca0.png)
 
