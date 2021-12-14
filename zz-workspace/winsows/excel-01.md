@@ -35,3 +35,8 @@ CTRL + 1
 ## 書式作成用に列幅を 1 で揃える
 https://user-images.githubusercontent.com/1501327/145959329-4dbc3677-caa3-4be2-8b6b-52c54f972158.mp4
 
+## オートフィル 2000 行
+** 名前ボックスでは SHIFT キーを押しながら ENTER**\
+https://user-images.githubusercontent.com/1501327/145972274-d15e64be-8731-4dfa-94d1-38ba4c3bebd3.mp4
+
+
