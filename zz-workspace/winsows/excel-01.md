@@ -31,3 +31,7 @@ CTRL + 1
 
 ## クイックアクセスツールバー( 印刷プレビューは必須 )
 ![image](https://user-images.githubusercontent.com/1501327/145767349-93aed1f8-4751-4f79-810f-18557cb16c8b.png)
+
+## 書式作成用に列幅を 1 で揃える
+https://user-images.githubusercontent.com/1501327/145959329-4dbc3677-caa3-4be2-8b6b-52c54f972158.mp4
+
