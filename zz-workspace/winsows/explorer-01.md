@@ -39,9 +39,9 @@ RUNDLL32.EXE shell32.dll,Options_RunDLL 7
 
 ## ⭐ ディスク空き領域( 並べて表示 )
 ![image](https://user-images.githubusercontent.com/1501327/146666959-37036d56-d556-4ad0-8842-956aebf13f6c.png)
-![image](https://user-images.githubusercontent.com/1501327/143817434-a334c7f5-1bdb-4967-87e5-f6d3bbdfcefd.png)
 
 ## ⭐ 共有の表示
+![image](https://user-images.githubusercontent.com/1501327/146667015-7635ea68-d695-47e8-8510-d709e3873eff.png)
 
 
 ## ⭐ アプリケーションからショートカット作成
