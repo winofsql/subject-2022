@@ -38,11 +38,11 @@ RUNDLL32.EXE shell32.dll,Options_RunDLL 7
 ![image](https://user-images.githubusercontent.com/1501327/143816536-61595bcf-5343-4d68-963e-c9f50492d68d.png)
 
 ## ⭐ ディスク空き領域( 並べて表示 )
-
+![image](https://user-images.githubusercontent.com/1501327/146666959-37036d56-d556-4ad0-8842-956aebf13f6c.png)
 ![image](https://user-images.githubusercontent.com/1501327/143817434-a334c7f5-1bdb-4967-87e5-f6d3bbdfcefd.png)
 
 ## ⭐ 共有の表示
-![image](https://user-images.githubusercontent.com/1501327/146666959-37036d56-d556-4ad0-8842-956aebf13f6c.png)
+
 
 ## ⭐ アプリケーションからショートカット作成
 - エクスプローラの該当フォルダを開く
