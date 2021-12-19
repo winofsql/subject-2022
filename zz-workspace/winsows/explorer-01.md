@@ -38,6 +38,8 @@ RUNDLL32.EXE shell32.dll,Options_RunDLL 7
 ![image](https://user-images.githubusercontent.com/1501327/143816536-61595bcf-5343-4d68-963e-c9f50492d68d.png)
 
 ## ⭐ ディスク空き領域( 並べて表示 )
+![image](https://user-images.githubusercontent.com/1501327/146667094-894f4cd2-1bdb-49de-99b2-a77bad4c43bd.png)
+
 ![image](https://user-images.githubusercontent.com/1501327/146666959-37036d56-d556-4ad0-8842-956aebf13f6c.png)
 
 ## ⭐ 共有の表示
