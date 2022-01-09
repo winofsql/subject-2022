@@ -46,3 +46,6 @@ https://user-images.githubusercontent.com/1501327/145975149-4d9cf0e8-8fc7-4056-9
 ```
 CTRL + 矢印
 ```
+- END キーで END モード
+- その後、矢印キー
+
