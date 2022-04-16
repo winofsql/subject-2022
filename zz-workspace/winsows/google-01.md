@@ -7,7 +7,9 @@
 
 ![image](https://user-images.githubusercontent.com/1501327/145751729-2852069a-1487-4b9c-bacf-7a0a52f1ea26.png)
 
-## 
+## ウェブサービスメニュー
+![image](https://user-images.githubusercontent.com/1501327/163663478-749f13ff-839b-4cc0-a365-93a1b82eeb7e.png)
+
 
 
 ## [Google ドライブをリモートでログアウトさせる](https://github.com/winofsql/googl-drive-app-remote-logout)
