@@ -6,3 +6,8 @@
 | グラフ表示 | 例: (x-2)^2+20
 
 ![image](https://user-images.githubusercontent.com/1501327/145751729-2852069a-1487-4b9c-bacf-7a0a52f1ea26.png)
+
+## 
+
+
+## [Google ドライブをリモートでログアウトさせる](https://github.com/winofsql/googl-drive-app-remote-logout)
