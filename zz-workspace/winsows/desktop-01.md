@@ -13,7 +13,7 @@
    - **Windows のマルチタスクの ウインドウのスナップを使用します**
 - そうすると、残ったウインドウの一覧が左半分に表示されるので、選択する
 - 境界をマウスで長押しすると黒い移動用の境界コントロールが現れる\
-   ![image](https://user-images.githubusercontent.com/1501327/143967379-7dd99637-a05d-4fd6-a2a6-b7ea35334be4.png)
+   ![image](https://user-images.githubusercontent.com/1501327/163735437-20574d1a-f019-46bf-b14a-7b359012e822.png)
 
 
 ![image](https://user-images.githubusercontent.com/1501327/143733503-bef7a189-0b12-44bc-bbb3-0cf25ba69480.png)
