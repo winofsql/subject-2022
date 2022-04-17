@@ -26,9 +26,13 @@
 
 https://user-images.githubusercontent.com/1501327/143966585-01e48533-13c8-4a07-bb90-71b2b8f248b8.mp4
 
-#### ▼ タスクマネージャの詳細で必要な列はプラットホーム
+### ▼ タスクマネージャの詳細で必要な列はプラットホーム
 ![image](https://user-images.githubusercontent.com/1501327/143733802-d39c8668-99da-41af-b6e9-9ab342f3a179.png)\
 ※ **アプリが 32 か 64 かを確認できる**
+
+### 常に手前に表示して見せたく無い場所に置いてキャプチャする
+![image](https://user-images.githubusercontent.com/1501327/163735506-e7717905-3e41-4a9b-8fae-b03e4b86a413.png)
+
 
 ### ✅ ファイルメニュー => 新しいタスクの実行
 
