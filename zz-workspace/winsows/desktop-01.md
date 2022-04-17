@@ -1,6 +1,8 @@
 # Windows
 ## ⭐ 画面部分キャプチャ : WIN + SHIFT + S
-( ウインドウのキャプチャは、ALT + PrintScreen / デスクトップのキャプチャは PrintScreen )
+( ウインドウのキャプチャは、ALT + PrintScreen / デスクトップのキャプチャは PrintScreen )\
+![image](https://user-images.githubusercontent.com/1501327/163735389-449f1af9-13d2-4940-b188-9d583b6b9277.png)
+
 
 ## ⭐ デスクトップ表示(戻す) : WIN + D
 ![image](https://user-images.githubusercontent.com/1501327/143732733-643d7e3c-cf3b-458a-b32c-286e9b2305a0.png)\
