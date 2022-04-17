@@ -34,7 +34,10 @@ https://user-images.githubusercontent.com/1501327/143966585-01e48533-13c8-4a07-b
 
 ### スタートアップの有効・無効
 ![image](https://user-images.githubusercontent.com/1501327/163735683-1e859abc-37d1-4724-a0d0-e98079b2de20.png)
-
+```
+HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+```
 
 ### ✅ ファイルメニュー => 新しいタスクの実行
 
