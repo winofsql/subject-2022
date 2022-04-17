@@ -32,6 +32,7 @@ https://user-images.githubusercontent.com/1501327/143966585-01e48533-13c8-4a07-b
 
 ### 常に手前に表示して見せたく無い場所に置いてキャプチャする
 ![image](https://user-images.githubusercontent.com/1501327/163735506-e7717905-3e41-4a9b-8fae-b03e4b86a413.png)
+![image](https://user-images.githubusercontent.com/1501327/163735594-754418a8-bba9-4060-a71d-bd965d8c8f71.png)
 
 
 ### ✅ ファイルメニュー => 新しいタスクの実行
