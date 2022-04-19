@@ -67,3 +67,8 @@ wf.msc
 RunDLL32.EXE shell32.dll,Control_RunDLL ncpa.cpl
 ```
 ![image](https://user-images.githubusercontent.com/1501327/145763147-9f1c3c1f-58c3-40c3-9164-fc7dd64f563d.png)
+
+
+## Windows リモートアクセス
+  - 他 PC のメンテナンス用に 閉じたネットワークでリモートアクセス可にしておく
+  ![image](https://user-images.githubusercontent.com/1501327/163701572-1be97bcf-a8fd-4175-9f69-1d152ba2cc56.png)
