@@ -19,3 +19,17 @@ SET /P A=
 @ECHO OFF 
 ```
 **@ は、そのコマンドそのものの表示を止める**
+```
+cls
+@echo on
+echo off
+
+echo こんにちは
+```
+```
+cls
+@echo on
+@echo off
+
+echo こんにちは
+```
