@@ -27,6 +27,8 @@ echo off
 
 echo こんにちは
 ```
+![image](https://user-images.githubusercontent.com/1501327/163926338-9226e247-b627-49d0-908d-0fc9e04ca251.png)
+
 ```
 prompt $G
 cls
