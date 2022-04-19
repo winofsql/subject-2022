@@ -4,4 +4,4 @@
 ```bat
 SET /P A=
 ```
-![image](https://user-images.githubusercontent.com/1501327/163923044-c8b804d0-be5b-48df-8099-fa1e02f0778d.png)
+![image](https://user-images.githubusercontent.com/1501327/163923158-10662953-bdab-4229-bd18-5a8127d72470.png)
