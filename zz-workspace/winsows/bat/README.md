@@ -14,7 +14,7 @@ SET /P A=
 ## 3) echo; は改行
 ![image](https://user-images.githubusercontent.com/1501327/163923425-526ef14e-8611-4c08-a836-2d595e632516.png)
 
-## 4) ECHO OFF は、コマンドそのものの表示を止める
+## 4) ECHO OFF は、コマンドそのものの表示を止める( バッチファイル側で行う )
 ```bat
 @ECHO OFF 
 ```
