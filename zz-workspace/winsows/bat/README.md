@@ -20,6 +20,7 @@ SET /P A=
 ```
 **@ は、そのコマンドそのものの表示を止める**
 ```
+prompt $G
 cls
 @echo on
 echo off
@@ -27,6 +28,7 @@ echo off
 echo こんにちは
 ```
 ```
+prompt $G
 cls
 @echo on
 @echo off
