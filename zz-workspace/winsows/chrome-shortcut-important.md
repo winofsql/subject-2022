@@ -73,5 +73,5 @@
 chrome://chrome-urls/
 ```
 
-## [how-to-use-chrome](https://github.com/winofsql/how-to-use-chrome)
+
 
