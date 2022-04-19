@@ -59,15 +59,6 @@
 
 ![image](https://user-images.githubusercontent.com/1501327/159151794-1f3c948f-e143-4c12-87f5-ec6c2d1bd961.png)
 
-## 共有PC でのサービスのログイン時の注意
-- シークレットモードを使う( 通常の Chrome だとログインした後、Chrome を終了させてもログアウトされない )
-- 通常 Chrome でもサービスからログアウトさせる設定
-
-![image](https://user-images.githubusercontent.com/1501327/159197028-3a0c467b-223b-4a1c-8216-1ad0b7b1ee4b.png)
-
-![image](https://user-images.githubusercontent.com/1501327/159197065-746dc2de-03dd-4e83-973f-0a57f33a3246.png)
-
-![image](https://user-images.githubusercontent.com/1501327/159196889-34abac2b-5323-44c1-a755-9b8e3fa31787.png)
 
 ## キャッシュの削除
 
