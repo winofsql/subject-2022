@@ -10,4 +10,4 @@
 ## 機能一覧
 ![image](https://user-images.githubusercontent.com/1501327/163703277-39fb9939-9507-445f-af76-56d44928ea5b.png)
 
-![image](https://user-images.githubusercontent.com/1501327/163704004-871f4629-f42b-40b8-996b-5b732ed38693.png)
+[![image](https://user-images.githubusercontent.com/1501327/163704004-871f4629-f42b-40b8-996b-5b732ed38693.png)](https://github.com/winofsql/subject-220415/raw/main/files/%E6%A9%9F%E8%83%BD%E4%B8%80%E8%A6%A7.xlsx)
