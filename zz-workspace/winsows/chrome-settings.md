@@ -22,13 +22,13 @@ wscript open_reg.vbs HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome
 ```
 [*.]google.com
 ```
-```
-https://www.google.com/
-```
 
 ## ホームボタン と ブークマークバー
 
 ![image](https://user-images.githubusercontent.com/1501327/159197162-9a8f82df-188f-4172-a6c2-34a3f284bb98.png)
+```
+https://www.google.com/
+```
 
 ## ダウンロード
 
