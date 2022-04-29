@@ -1,25 +1,7 @@
 Set obj = Wscript.CreateObject("Shell.Application")
 Dim strParam
 if Wscript.Arguments.Count = 0 then
-	' 引数が無い場合は、まずクリップボードを確認
-
-	' クリップボード用
-	' ※ HTA 等では直接 window.clipboardData より実行
-	' ※ するように書き換える必要があります
-	Set objIE = CreateObject("InternetExplorer.Application")
-	objIE.Navigate("about:blank")
-	Do While objIE.Busy
-		' 100 ミリ秒
-		Wscript.Sleep 100
-	Loop
-	strParam = objIE.document.parentWindow.clipboardData.GetData( "Text" ) & ""
-	objIE.Quit
-
-	strParam = Trim( strParam )
-	' 無ければ入力
-	if strParam = "" then
-		strParam = InputBox("開く対象となるレジストリーのキーを入力して下さい","指定したキーでレジストリエディタを開く","HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft")
-	end if
+	strParam = InputBox("開く対象となるレジストリーのキーを入力して下さい","指定したキーでレジストリエディタを開く","HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft")
 
 	' 管理者として実行を強制する
 	obj.ShellExecute "wscript.exe", WScript.ScriptFullName & " runas """ & strParam & """", "", "runas", 1
