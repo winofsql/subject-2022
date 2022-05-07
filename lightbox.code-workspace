@@ -721,8 +721,20 @@
                 "group": "🟥 Java"
             },
             {
+                "command": "mkdir ..\\java-swing-popup-menu && cd ..\\java-swing-popup-menu && cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\download.vbs https://github.com/winofsql/java-swing-popup-menu/raw/main Main.java README.md readme.txt \\action AppPopup.java AppWindow.java BaseWindow.java Check.java && cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\workspace-build-download.vbs",
+                "name": "🚀📄 java-swing-popup-menu",
+                "auto": true,
+                "group": "🟥 Java"
+            },
+            {
                 "command": "mkdir ..\\java-swing-jtable-csv-text && cd ..\\java-swing-jtable-csv-text && cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\download.vbs https://github.com/winofsql/java-swing-jtable-csv-text/raw/main Main.java syain.csv && cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\workspace-build-download.vbs",
                 "name": "🚀📄 java-swing-jtable-csv-text",
+                "auto": true,
+                "group": "🟥 Java"
+            },
+            {
+                "command": "cd ..\\ && git clone https://github.com/winofsql/java-swing-build-jtable.git && cd java-swing-build-jtable && rmdir .git /S /Q && cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\workspace-build-download.vbs",
+                "name": "🚀📄 java-swing-build-jtable",
                 "auto": true,
                 "group": "🟥 Java"
             },
@@ -835,14 +847,14 @@
                 "group": "🟦 C#"
             },
             {
-                "command": "start chrome https://dobon.net/vb/dotnet/form/openfiledialog.html#codecaption2 && exit",
-                "name": "──────────────────────────────────【OpenFileDialog】",
+                "command": "mkdir ..\\cs-con-web-json && cd ..\\cs-con-web-json && dotnet new console -f net5.0 && cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\download.vbs https://github.com/winofsql/cs-con-web-json/raw/main Program.cs && dotnet add package Newtonsoft.Json --version 13.0.1 && dotnet add package System.Text.Encoding.CodePages && cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\workspace-build-download.vbs",
+                "name": "🌏【C : WEB + JSON】インターネットより JSON を取得してオブジェクトとして利用する",
                 "auto": true,
                 "group": "🟦 C#"
             },
             {
-                "command": "cd ..\\ && git clone https://github.com/winofsql/cs-con-oledb-access-select.git && cd cs-con-oledb-access-select && rmdir .git /S /Q && dotnet add package System.Data.OleDb && cd ..\\ && git clone https://github.com/winofsql/cs-con-oledb-02.git && cd cs-con-oledb-02 && rmdir .git /S /Q && dotnet add package System.Data.OleDb && cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\workspace-build-download.vbs",
-                "name": "📕【C + MS Access as DB( OLEDB )】Microsoft Access に DB としてアクセス",
+                "command": "start chrome https://dobon.net/vb/dotnet/form/openfiledialog.html#codecaption2 && exit",
+                "name": "──────────────────────────────────【OpenFileDialog】",
                 "auto": true,
                 "group": "🟦 C#"
             },
@@ -860,7 +872,7 @@
             },
             {
                 "command": "cd ..\\ && git clone https://github.com/winofsql/cs-con-odbc-excel-select.git && cd cs-con-odbc-excel-select && rmdir .git /S /Q && dotnet add package System.Data.Odbc && dotnet add package System.Data.OleDb && cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\workspace-build-download.vbs",
-                "name": "📕【C + MS Excel as DB( ODBC )】Microsoft Eccess に DB としてアクセス",
+                "name": "📕【C + MS Excel as DB( ODBC )】Microsoft Excel に DB としてアクセス",
                 "auto": true,
                 "group": "🟦 C#"
             },
@@ -973,12 +985,6 @@
                 "group": "🟦 C#"
             },
             {
-                "command": "dotnet add package System.Data.OleDb && exit",
-                "name": "💼【LIB】System.Data.OleDb 追加",
-                "auto": true,
-                "group": "🟦 C#"
-            },
-            {
                 "command": "dotnet add package System.Text.Encoding.CodePages && exit",
                 "name": "💼【LIB】System.Text.Encoding.CodePages 追加",
                 "auto": true,
@@ -1044,6 +1050,12 @@
                 "auto": true,
                 "group": "🐍 Python"
             },            
+            {
+                "command": "cd ..\\ && git clone https://github.com/winofsql/wsh-windows-basic.git && cd wsh-windows-basic && rmdir .git /S /Q && cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\workspace-build-download.vbs && exit",
+                "name": "🌏 WSH Basic",
+                "auto": true,
+                "group": "🌏 Windows スクリプト"
+            },
             {
                 "command": "cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\start-localhost.vbs && exit",
                 "name": "🌏 localhost",
