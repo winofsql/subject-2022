@@ -139,7 +139,7 @@
                 "group": "🖐 設定"
             },
             {
-                "command": "if exist \\app\\workspace ( cd \\app\\workspace && git clone https://github.com/winofsql/subject.git && ren subject subject-%date:~5,2%%date:~8,2% && cd subject-%date:~5,2%%date:~8,2% && rmdir .git /S /Q && copy README.md zz-workspace && Code lightbox.code-workspace && exit ) else ( mkdir \\app\\workspace && cd \\app\\workspace && git clone https://github.com/winofsql/subject.git && ren subject subject-%date:~5,2%%date:~8,2% && cd subject-%date:~5,2%%date:~8,2% && rmdir .git /S /Q && copy README.md zz-workspace && Code lightbox.code-workspace && exit )",
+                "command": "if exist c:\\app\\workspace ( c: && cd \\app\\workspace && git clone https://github.com/winofsql/subject.git && ren subject subject-%date:~5,2%%date:~8,2% && cd subject-%date:~5,2%%date:~8,2% && rmdir .git /S /Q && copy README.md zz-workspace && Code lightbox.code-workspace && exit ) else ( c: && mkdir \\app\\workspace && cd \\app\\workspace && git clone https://github.com/winofsql/subject.git && ren subject subject-%date:~5,2%%date:~8,2% && cd subject-%date:~5,2%%date:~8,2% && rmdir .git /S /Q && copy README.md zz-workspace && Code lightbox.code-workspace && exit )",
                 "name": "🟥 SUBJECT 今日の日( app\\workspace に作成 )",
                 "auto": true,
                 "group": "🖐 設定"
@@ -1043,10 +1043,40 @@
                 "name": "✅ Python Subject Basic 0930",
                 "auto": true,
                 "group": "🐍 Python"
-            },            
+            },
+            {
+                "command": "cd ..\\ && git clone https://github.com/winofsql/py-web-basic.git && cd py-web-basic && rmdir .git /S /Q && cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\workspace-build-download.vbs && exit",
+                "name": "✅ Python WEBアプリテンプレート",
+                "auto": true,
+                "group": "🐍 Python"
+            },
+            {
+                "command": "cd ..\\ && git clone https://github.com/winofsql/py-com-sample.git && cd py-com-sample && rmdir .git /S /Q && cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\workspace-build-download.vbs && exit",
+                "name": "✅ Python COM サンプル",
+                "auto": true,
+                "group": "🐍 Python"
+            },
             {
                 "command": "cd ..\\ && git clone https://github.com/winofsql/wsh-windows-basic.git && cd wsh-windows-basic && rmdir .git /S /Q && cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\workspace-build-download.vbs && exit",
                 "name": "🌏 WSH Basic",
+                "auto": true,
+                "group": "🌏 Windows スクリプト"
+            },
+            {
+                "command": "cd ..\\ && git clone https://github.com/winofsql/wsh-js-excel.git && cd wsh-js-excel && rmdir .git /S /Q && cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\workspace-build-download.vbs && exit",
+                "name": "🌏 WSH JScript Excel",
+                "auto": true,
+                "group": "🌏 Windows スクリプト"
+            },
+            {
+                "command": "cd ..\\ && git clone https://github.com/winofsql/vbs-js-select-folder.git && cd vbs-js-select-folder && rmdir .git /S /Q && cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\workspace-build-download.vbs && exit",
+                "name": "🌏 VBS & JS フォルダを選択",
+                "auto": true,
+                "group": "🌏 Windows スクリプト"
+            },
+            {
+                "command": "cd ..\\ && git clone https://github.com/winofsql/wsh-vbs-js-web-download.git && cd wsh-vbs-js-web-download && rmdir .git /S /Q && cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\workspace-build-download.vbs && exit",
+                "name": "🌏 VBS & JS WEBファイルダウンロード",
                 "auto": true,
                 "group": "🌏 Windows スクリプト"
             },
