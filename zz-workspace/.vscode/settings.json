@@ -1051,8 +1051,26 @@
                 "group": "🐍 Python"
             },
             {
+                "command": "cd ..\\ && git clone https://github.com/winofsql/py-web-iframe-req.git && cd py-web-iframe-req && rmdir .git /S /Q && cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\workspace-build-download.vbs && exit",
+                "name": "✅ Python WEBアプリ MySQL IFRAME 問い合わせ (標準化)",
+                "auto": true,
+                "group": "🐍 Python"
+            },
+            {
+                "command": "cd ..\\ && git clone https://github.com/winofsql/py-lolipop-send-mail.git && cd py-lolipop-send-mail && rmdir .git /S /Q && cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\workspace-build-download.vbs && exit",
+                "name": "✅ Python メール送信 : ロリポップ / Yahoo! / さくらインターネット",
+                "auto": true,
+                "group": "🐍 Python"
+            },
+            {
                 "command": "cd ..\\ && git clone https://github.com/winofsql/py-com-sample.git && cd py-com-sample && rmdir .git /S /Q && cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\workspace-build-download.vbs && exit",
                 "name": "✅ Python COM サンプル",
+                "auto": true,
+                "group": "🐍 Python"
+            },
+            {
+                "command": "cd ..\\ && git clone https://github.com/winofsql/py-grid-tkinter.git && cd py-grid-tkinter && rmdir .git /S /Q && cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\workspace-build-download.vbs && exit",
+                "name": "✅ Python GRID (tkinter) サンプル",
                 "auto": true,
                 "group": "🐍 Python"
             },
@@ -1087,8 +1105,8 @@
                 "group": "🔄 テスト"
             },
             {
-                "command": "cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\start-root-localhost.vbs && exit",
-                "name": "🌏 ROOT localhost ( 環境変数 DocumentRoot が必要です )",
+                "command": "start chrome http://localhost/ && exit",
+                "name": "🌏 ROOT localhost",
                 "auto": true,
                 "group": "🔄 テスト"
             },
@@ -1165,14 +1183,14 @@
                 "group": "📥 ダウンロード"
             },
             {
-                "command": "cd ..\\ && git clone https://github.com/winofsql/sqlite3-csv.git && cd sqlite3-csv && rmdir .git /S /Q && cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\workspace-build-download.vbs && exit",
-                "name": "🟥 SQLite3 初期セット",
+                "command": "cd ..\\ && git clone https://github.com/winofsql/winofsql-mdb-sql-skeleton.git && cd winofsql-mdb-sql-skeleton && rmdir .git /S /Q && cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\workspace-build-download.vbs && exit",
+                "name": "🟥 SQLの窓スケルトンメニュー拡張",
                 "auto": true,
                 "group": "📥 ダウンロード"
             },
             {
-                "command": "cd ..\\ && git clone https://github.com/winofsql/winofsql-mdb-sql-skeleton.git && cd winofsql-mdb-sql-skeleton && rmdir .git /S /Q && cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\workspace-build-download.vbs && exit",
-                "name": "🟥 SQLの窓スケルトンメニュー拡張",
+                "command": "cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\download.vbs https://github.com/winofsql/subject-2022-software/raw/main/lightbox/ WinOfSql105.zip && exit",
+                "name": "🟥 WinOfSql105.zip",
                 "auto": true,
                 "group": "📥 ダウンロード"
             },
@@ -1201,8 +1219,8 @@
                 "group": "📥 ダウンロード"
             },
             {
-                "command": "cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\download.vbs https://github.com/winofsql/hta-js-ado-mysql-req/raw/main hta-js-ado-mysql-req.htm hta.js",
-                "name": "🪔 HTA + 🐬 MySQL",
+                "command": "cd ..\\ && git clone https://github.com/winofsql/sqlite3-csv.git && cd sqlite3-csv && rmdir .git /S /Q && cscript C:\\Users\\%USERNAME%\\AppData\\Roaming\\Code\\User\\script\\workspace-build-download.vbs && exit",
+                "name": "🟥 SQLite3 初期セット",
                 "auto": true,
                 "group": "📥 ダウンロード"
             },
@@ -1219,14 +1237,8 @@
                 "group": "📌 ブックマーク"
             },
             {
-                "command": "start chrome https://github.com/winofsql/subject && exit",
-                "name": "🌞 Subject ワークスペース用テンプレート",
-                "auto": true,
-                "group": "📌 ブックマーク"
-            },
-            {
-                "command": "start chrome https://github.com/winofsql/vscode-template && exit",
-                "name": "🌞 VS Code テンプレート",
+                "command": "start chrome --incognito https://user.lolipop.jp/ && exit",
+                "name": "🌞 ロリポップ",
                 "auto": true,
                 "group": "📌 ブックマーク"
             },
@@ -1245,6 +1257,48 @@
             {
                 "command": "start chrome http://lightbox.on.coocan.jp/html/utf8tool.php && exit",
                 "name": "🍱 UTF8 文字( 色付き文字も )",
+                "auto": true,
+                "group": "📌 ブックマーク"
+            },
+            {
+                "command": "start chrome https://regex101.com/ && exit",
+                "name": "🌞 正規表現",
+                "auto": true,
+                "group": "📌 ブックマーク"
+            },
+            {
+                "command": "start chrome https://u670.com/pikamap/htmlseikei.php && exit",
+                "name": "🌞 HTML整形",
+                "auto": true,
+                "group": "📌 ブックマーク"
+            },
+            {
+                "command": "start chrome https://atl2.net/webtool/sql%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%83%E3%82%BF%E3%83%BCfor-web/ && exit",
+                "name": "🌞 SQLフォーマッター",
+                "auto": true,
+                "group": "📌 ブックマーク"
+            },
+            {
+                "command": "start chrome https://migi.me/vsc_snippet/ && exit",
+                "name": "🌞 VSCodeスニペット用コード作成ツール",
+                "auto": true,
+                "group": "📌 ブックマーク"
+            },
+            {
+                "command": "start chrome https://www.trendmicro.com/ja_jp/forHome/products/onlinescan.html && exit",
+                "name": "🌞 無料ウイルスチェック",
+                "auto": true,
+                "group": "📌 ブックマーク"
+            },
+            {
+                "command": "start chrome https://github.com/winofsql/subject && exit",
+                "name": "🌞 Subject ワークスペース用テンプレート",
+                "auto": true,
+                "group": "📌 ブックマーク"
+            },
+            {
+                "command": "start chrome https://github.com/winofsql/vscode-template && exit",
+                "name": "🌞 VS Code テンプレート",
                 "auto": true,
                 "group": "📌 ブックマーク"
             },
@@ -1279,7 +1333,7 @@
                 "group": "🔳 Windows"
             },
             {
-                "command": "rundll32.exe shell32.dll,SHHelpShortcuts_RunDLL Connect && exit",
+                "command": "rundll32.exe shell32.dll,SHHelpShortcuts_RunDLL Connect",
                 "name": "🔶 ネッワークドライブの割り当て",
                 "auto": true,
                 "group": "🔳 Windows"
@@ -1329,6 +1383,12 @@
             {
                 "command": "Rundll32.exe devmgr.dll DeviceManager_Execute && exit",
                 "name": "🏭 デバイスマネージャ",
+                "auto": true,
+                "group": "🔳 Windows"
+            },
+            {
+                "command": "wf.msc && exit",
+                "name": "🏭 ファイアーウォール 詳細",
                 "auto": true,
                 "group": "🔳 Windows"
             },
