@@ -35,9 +35,7 @@ https://www.google.com/
 ![image](https://user-images.githubusercontent.com/1501327/159197247-af8c67b5-bafc-43cd-a7b0-3235940a7862.png)
 
 
-- ## [広告ブロック](https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom)
-
+- ## [広告ブロック](https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom)\
 ![image](https://user-images.githubusercontent.com/1501327/162353261-aa5d7984-d7da-493d-838a-f752665c40bf.png)
-
-  - ### シークレットモードでの実行を許可する
+  - ### シークレットモードでの実行を許可する\
   ![image](https://user-images.githubusercontent.com/1501327/168934603-1dc3f93e-9cc1-4ba7-959b-ea9bcd16714d.png)
