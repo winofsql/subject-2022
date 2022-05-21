@@ -26,7 +26,12 @@
         },
         {
             "type": "Feature",
-            "properties": {},
+            "properties": {
+                "marker-color": "#363",
+                "marker-size": "large",
+                "title": "ミライザ大阪城",
+                "description": "歴史的な建物に入っているおしゃれな施設"
+            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
