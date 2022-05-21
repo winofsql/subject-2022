@@ -12,11 +12,7 @@
             "type": "Feature",
             "properties": {
                 "id": 1,
-                "name": "fujisan",
-                "marker-color": "#363",
-                "marker-size": "large",
-                "title": "富士山",
-                "description": "日本一高い山"
+                "name": "fujisan"
             },
             "geometry": {
                 "type": "Point",
@@ -25,6 +21,12 @@
                     34.6864385
                 ]
             },
+            "properties": {
+                "marker-color": "#363",
+                "marker-size": "large",
+                "title": "大阪城",
+                "description": "天守閣"
+            }
         },
         {
             "type": "Feature",
