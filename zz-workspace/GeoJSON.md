@@ -10,10 +10,6 @@
     "features": [
         {
             "type": "Feature",
-            "properties": {
-                "id": 1,
-                "name": "fujisan"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -30,10 +26,6 @@
         },
         {
             "type": "Feature",
-            "properties": {
-                "id": 2,
-                "name": "ashitakayama"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -44,10 +36,6 @@
         },
         {
             "type": "Feature",
-            "properties": {
-                "id": 3,
-                "name": "komagatake"
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
