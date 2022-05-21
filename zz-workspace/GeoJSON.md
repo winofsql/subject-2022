@@ -1,3 +1,4 @@
+```geojson
 {
     "type": "FeatureCollection",
     "crs": {
@@ -55,3 +56,4 @@
         }
     ]
 }
+```
