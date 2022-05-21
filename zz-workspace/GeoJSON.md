@@ -1,0 +1,37 @@
+### [GeoJSON](https://gis-oer.github.io/gitbook/book/materials/web_gis/GeoJSON/GeoJSON.html)
+
+```geojson
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.7309,
+                    35.3628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.8079,
+                    35.1983
+                ]
+            }
+        }
+    ]
+}
+```
