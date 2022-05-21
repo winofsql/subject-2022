@@ -1,6 +1,3 @@
-### [GeoJSON](https://gis-oer.github.io/gitbook/book/materials/web_gis/GeoJSON/GeoJSON.html)
-
-```geojson
 {
     "type": "FeatureCollection",
     "crs": {
@@ -12,18 +9,28 @@
     "features": [
         {
             "type": "Feature",
-            "properties": {},
+            "properties": {
+                "id": 1,
+                "name": "fujisan",
+                "marker-color": "#363",
+                "marker-size": "large",
+                "title": "富士山",
+                "description": "日本一高い山"
+            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     135.5236053,
                     34.6864385
                 ]
-            }
+            },
         },
         {
             "type": "Feature",
-            "properties": {},
+            "properties": {
+                "id": 2,
+                "name": "ashitakayama"
+            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -31,7 +38,20 @@
                     34.6858826
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 3,
+                "name": "komagatake"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.0248,
+                    35.2248
+                ]
+            }
         }
     ]
 }
-```
