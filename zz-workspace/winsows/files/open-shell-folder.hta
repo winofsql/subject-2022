@@ -6,41 +6,41 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script>
 
-	// ウインドウの位置とサイズ
-	top.moveTo( 30, 30 );
-	top.resizeTo( 700, 800 );
+    // ウインドウの位置とサイズ
+    top.moveTo( 30, 30 );
+    top.resizeTo( 700, 800 );
 
 $(function(){
-	$("#lboxtable td").each(function(){
-		if( $(this).get(0).cellIndex == 0 ) {
+    $("#lboxtable td").each(function(){
+        if( $(this).get(0).cellIndex == 0 ) {
 
-			$(this).css({ "cursor" : "pointer" });
+            $(this).css({ "cursor" : "pointer" });
 
-		}
-	});
+        }
+    });
 
-	$("#lboxtable td").on("click",function(){
-		if( $(this).get(0).cellIndex == 0 ) {
+    $("#lboxtable td").on("click",function(){
+        if( $(this).get(0).cellIndex == 0 ) {
 
-			var text = $(this).text();
-			shellRunExe( text, "" );
+            var text = $(this).text();
+            shellRunExe( text, "" );
 
-		}
-	});
+        }
+    });
 });
 
 function newObject( className ) {
 
-	var obj;
+    var obj;
 
-	try {
-		obj = new ActiveXObject( className );
-	}
-	catch (e) {
-		obj = null;
-	}
+    try {
+        obj = new ActiveXObject( className );
+    }
+    catch (e) {
+        obj = null;
+    }
 
-	return obj;
+    return obj;
 
 }
 
@@ -48,7 +48,7 @@ var shell = newObject("Shell.Application");
 
 function shellRunExe( strPath, strParam ) {
 
-	shell.ShellExecute( strPath, strParam )
+    shell.ShellExecute( strPath, strParam )
 
 }
 
@@ -58,42 +58,42 @@ function shellRunExe( strPath, strParam ) {
 
 <style type="text/css">
 .it {
-	background-color: pink;
+    background-color: pink;
 }
 
 #lboxtable * {
-	font-family: メイリオ,'ＭＳ Ｐゴシック';
-	font-size: 12px;
+    font-family: メイリオ,'ＭＳ Ｐゴシック';
+    font-size: 12px;
 }
 #lboxtable table {
-	border-collapse: collapse;
-	border-style: solid;
-	border-color: #000000;
-	border-width: 1px;
-	background-color: #FFFFFF;
+    border-collapse: collapse;
+    border-style: solid;
+    border-color: #000000;
+    border-width: 1px;
+    background-color: #FFFFFF;
 }
 #lboxtable td {
-	padding: 5px;
-	border-style: solid;
-	border-color: #000000;
-	border-width: 1px;
-	/* white-space: nowrap; */
+    padding: 5px;
+    border-style: solid;
+    border-color: #000000;
+    border-width: 1px;
+    /* white-space: nowrap; */
 }
 #lboxtable th {
-	padding: 5px;
-	border-style: solid;
-	border-color: #000000;
-	border-width: 1px;
-	background-color: silver;
-	/* white-space: nowrap; */
+    padding: 5px;
+    border-style: solid;
+    border-color: #000000;
+    border-width: 1px;
+    background-color: silver;
+    /* white-space: nowrap; */
 }
 #lboxtable .header {
-	padding: 5px;
-	border-style: solid;
-	border-color: #000000;
-	border-width: 1px;
-	background-color: silver;
-	/* white-space: nowrap; */
+    padding: 5px;
+    border-style: solid;
+    border-color: #000000;
+    border-width: 1px;
+    background-color: silver;
+    /* white-space: nowrap; */
 }
 </style>
 
